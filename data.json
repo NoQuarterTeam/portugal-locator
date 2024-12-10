@@ -1,0 +1,2921 @@
+[
+  {
+    "name": "HAU4-1: Miguel Land (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/04/FOTO-1-copy-1-388x220.jpg",
+    "latitude": 40.0140853,
+    "longitude": -7.3477771,
+    "price": 3750,
+    "link": "https://www.pureportugal.co.uk/property/hau4-1-miguel-land/"
+  },
+  {
+    "name": "TSA66: Tarrastal Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/000-13-388x220.jpg",
+    "latitude": 40.0867257,
+    "longitude": -8.2046161,
+    "price": 4950,
+    "link": "https://www.pureportugal.co.uk/property/tsa66-tarrastal-land/"
+  },
+  {
+    "name": "PRY5-1: Brejo Ruin",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/02/1-copy-22-388x220.jpg",
+    "latitude": 39.80086,
+    "longitude": -8.2509096,
+    "price": 5000,
+    "link": "https://www.pureportugal.co.uk/property/pry5-1-brejo-ruin/"
+  },
+  {
+    "name": "LPI5-1: Terra com Boas Vistas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/11/0001-80-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031932,
+    "price": 5000,
+    "link": "https://www.pureportugal.co.uk/property/lpi5-1-terra-com-boas-vistas/"
+  },
+  {
+    "name": "LPI5: Terra para Abelhas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/11/0001-16-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031932,
+    "price": 5000,
+    "link": "https://www.pureportugal.co.uk/property/lpi5-terra-para-abelhas/"
+  },
+  {
+    "name": "SPC9: Vale da Burra – Reserved",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/02/0001-11-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 5500,
+    "link": "https://www.pureportugal.co.uk/property/spc9-vale-da-burra/"
+  },
+  {
+    "name": "CASE6-2: Fern Ruin",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/06/0004-80-388x220.jpg",
+    "latitude": 39.9204044,
+    "longitude": -7.91805,
+    "price": 6150,
+    "link": "https://www.pureportugal.co.uk/property/case6-2-fern-ruin/"
+  },
+  {
+    "name": "PRY6 Village Barn",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/10/0001-28-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445745,
+    "price": 6500,
+    "link": "https://www.pureportugal.co.uk/property/pry6-village-barn/"
+  },
+  {
+    "name": "LNG7-2: Aranhas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/1b26d44777129be6ee7d43064cff3ff9.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 7000,
+    "link": "https://www.pureportugal.co.uk/property/lng7-2-aranhas-land/"
+  },
+  {
+    "name": "PRY7-2: Casa Tira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/06/IMG_20210221_151857-1024x768-1024x768-copy-388x220.jpg",
+    "latitude": 39.8322788,
+    "longitude": -8.1337485,
+    "price": 7000,
+    "link": "https://www.pureportugal.co.uk/property/pry7-2-casa-tira/"
+  },
+  {
+    "name": "LNG7-3: Figlands",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/0abad2544ac6f2ee241a0e309845ec59.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 7000,
+    "link": "https://www.pureportugal.co.uk/property/lng7-3-figlands/"
+  },
+  {
+    "name": "LNG7-4: Aranhas Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/0-9-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 7000,
+    "link": "https://www.pureportugal.co.uk/property/lng7-4-aranhas-rustic-land/"
+  },
+  {
+    "name": "LNG7-1: Rustic Land In Aranhas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20220811_104922-copy-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/lng7-1-rustic-land-in-aranhas/"
+  },
+  {
+    "name": "HAU9-5: Torre Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/00-2-388x220.jpg",
+    "latitude": 40.0450742,
+    "longitude": -7.5307627,
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau9-5-torre-land/"
+  },
+  {
+    "name": "CASE9-1: Ruína Perto do Rio",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/11/0001-53-388x220.jpg",
+    "latitude": 39.8377523,
+    "longitude": -8.2445769,
+    "price": 7900,
+    "link": "https://www.pureportugal.co.uk/property/case9-1-ruina-perto-do-rio/"
+  },
+  {
+    "name": "MPP7: Sentieiras Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0hoto-30-11-2021-20-25-48-2-copy-388x220.jpg",
+    "latitude": 39.5245185,
+    "longitude": -8.2003539,
+    "price": 7995,
+    "link": "https://www.pureportugal.co.uk/property/mpp7-sentieiras-land/"
+  },
+  {
+    "name": "LPI8: Terra com Carvalhos",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/11/0001-15-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031932,
+    "price": 8000,
+    "link": "https://www.pureportugal.co.uk/property/lpi8-terra-com-carvalhos/"
+  },
+  {
+    "name": "CASE12-3: Little Font House (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/1-copy-1-388x220.jpg",
+    "latitude": 39.9204044,
+    "longitude": -7.91805,
+    "price": 8000,
+    "link": "https://www.pureportugal.co.uk/property/case12-3-little-font-house/"
+  },
+  {
+    "name": "HKP8-1: Cabo da Tapada",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/DSC01002-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168727,
+    "price": 8000,
+    "link": "https://www.pureportugal.co.uk/property/hkp8-1-cabo-da-tapada/"
+  },
+  {
+    "name": "MIR8: Quinta Ladoeiro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/20230329_173012-copy-388x220.jpg",
+    "latitude": 39.8383302,
+    "longitude": -7.340989,
+    "price": 8300,
+    "link": "https://www.pureportugal.co.uk/property/mir8-quinta-ladoeiro/"
+  },
+  {
+    "name": "LNG8-3: Ruin House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20220629_111002-copy-1-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 8500,
+    "link": "https://www.pureportugal.co.uk/property/lng8-3-ruin-house/"
+  },
+  {
+    "name": "CFR12: Ponsul Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/02/010-copy-2-388x220.jpg",
+    "latitude": 39.9359761,
+    "longitude": -7.3896424,
+    "price": 8500,
+    "link": "https://www.pureportugal.co.uk/property/cfr12-ponsul-quinta/"
+  },
+  {
+    "name": "RMCB8: Ambleside Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/12/00-copy-1-388x220.jpg",
+    "latitude": 40.1695531,
+    "longitude": -7.1818049,
+    "price": 8500,
+    "link": "https://www.pureportugal.co.uk/property/rmcb8-ambleside-farm/"
+  },
+  {
+    "name": "LNG9: Aranhas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/IMG_20220511_153730-copy-1-388x220.jpg",
+    "latitude": 40.1153508,
+    "longitude": -7.1814363,
+    "price": 9000,
+    "link": "https://www.pureportugal.co.uk/property/lng9-aranhas-land/"
+  },
+  {
+    "name": "CASE9-2: The Little House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/06/0001-90-388x220.jpg",
+    "latitude": 39.7183754,
+    "longitude": -8.0277951,
+    "price": 9100,
+    "link": "https://www.pureportugal.co.uk/property/case9-2-the-little-house/"
+  },
+  {
+    "name": "PTC9: Horto da Ribeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/0MG_4730-copy-388x220.jpg",
+    "latitude": 39.5245185,
+    "longitude": -8.2003539,
+    "price": 9400,
+    "link": "https://www.pureportugal.co.uk/property/ptc9-horto-da-ribeira/"
+  },
+  {
+    "name": "HAU9-7: Ingarnal Mountains View (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/2b56d4c0f9c87ef70f31d88166bcd2ff.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.0233539,
+    "longitude": -7.7141527,
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/hau9-7-ingarnal-mountains-view/"
+  },
+  {
+    "name": "LNG9-12: Rustic Land in Meimao",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20221227_111740-copy-388x220.jpg",
+    "latitude": 40.2842671,
+    "longitude": -7.1281683,
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/lng9-12-rustic-land-in-meimao/"
+  },
+  {
+    "name": "LNG12-7: Quinta ARANHAS",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/000-8-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/lng12-7-quinta-aranhas/"
+  },
+  {
+    "name": "HAU9-6: Hidden Tinalhas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/0-6-388x220.jpg",
+    "latitude": 39.9476419,
+    "longitude": -7.5397412,
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/hau9-6-hidden-tinalhas-land/"
+  },
+  {
+    "name": "LNG9-7: Olive Oak Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/12/IMG_20211120_114602-copy-388x220.jpg",
+    "latitude": 40.1695528,
+    "longitude": -7.1861823,
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/lng9-7-olive-oak-quinta/"
+  },
+  {
+    "name": "SPC9-3: Quinta da Farinheira – RESERVED",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/03/P1170683-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 9750,
+    "link": "https://www.pureportugal.co.uk/property/spc9-3-quinta-da-farinheira/"
+  },
+  {
+    "name": "SVZ10: Quinta Portelinha",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/03/243628_390910434298519_1704080443_o-copy-1-388x220.jpg",
+    "latitude": 40.0036304,
+    "longitude": -7.7337944,
+    "price": 9885,
+    "link": "https://www.pureportugal.co.uk/property/svz10-quinta-portelinha/"
+  },
+  {
+    "name": "INO9: Mountain House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/IMG_20191006_112617-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031922,
+    "price": 9900,
+    "link": "https://www.pureportugal.co.uk/property/ino9-mountain-house/"
+  },
+  {
+    "name": "LNG9-11: Sarnadas House",
+    "latitude": 39.9474761,
+    "longitude": -7.7898616,
+    "price": 9900,
+    "link": "https://www.pureportugal.co.uk/property/lng9-11-sarnadas-house/"
+  },
+  {
+    "name": "ALM10-1: Lafoes Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/Image-copy-388x220.jpeg",
+    "latitude": 40.764715,
+    "longitude": -8.1592083,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/alm10-1-lafoes-farm/"
+  },
+  {
+    "name": "LNG10-6: Sobral Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/0-13-388x220.jpg",
+    "latitude": 39.9707831,
+    "longitude": -7.5612377,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/lng10-6-sobral-farm/"
+  },
+  {
+    "name": "ELP10: House for renovation",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/10/IMG_20211007_181108-copy-388x220.jpg",
+    "latitude": 40.0044666,
+    "longitude": -8.4423926,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/elp10-house-for-renovation/"
+  },
+  {
+    "name": "SGH10: Shale Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/05/0001-80-388x220.jpg",
+    "latitude": 39.9204044,
+    "longitude": -7.91805,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/sgh10-shale-village-house/"
+  },
+  {
+    "name": "ALM10: Farm by the river (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/Image_1-copy-388x220.jpeg",
+    "latitude": 40.7229036,
+    "longitude": -8.3630031,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/alm10-farm-by-the-river/"
+  },
+  {
+    "name": "HAU10-5: Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/0-2-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/hau10-5-rustic-land/"
+  },
+  {
+    "name": "LPI10: Ocreza Riverlands",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/02/IMG_5654-copy-388x220.jpg",
+    "latitude": 40.0446322,
+    "longitude": -7.5183171,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/lpi10-ocreza-riverlands/"
+  },
+  {
+    "name": "LNG10-5: Sarzedas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/20220119_154324-copy-388x220.jpg",
+    "latitude": 39.8509648,
+    "longitude": -7.692257,
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/lng10-5-sarzedas-land/"
+  },
+  {
+    "name": "RMTR12: Cumeada Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/12/1-copy-5-388x220.jpg",
+    "latitude": 39.7666238,
+    "longitude": -8.1493468,
+    "price": 10500,
+    "link": "https://www.pureportugal.co.uk/property/rmtr12-cumeada-quinta/"
+  },
+  {
+    "name": "HAU10-3: Little Lousa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/1-copy-15-388x220.jpg",
+    "latitude": 40.1146993,
+    "longitude": -8.2725433,
+    "price": 10500,
+    "link": "https://www.pureportugal.co.uk/property/hau10-3-little-lousa/"
+  },
+  {
+    "name": "HAU10-6: Ingarnal Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/0ebea3c7a2c235fe0521f4edd130f7f0.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.0233539,
+    "longitude": -7.7141527,
+    "price": 10500,
+    "link": "https://www.pureportugal.co.uk/property/hau10-6-ingarnal-village-house/"
+  },
+  {
+    "name": "PTC11: Castelinho House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/0-388x220.jpg",
+    "latitude": 39.6087997,
+    "longitude": -8.0987332,
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/ptc11-castelinho-house/"
+  },
+  {
+    "name": "BMM11: Ocreza Off-grid",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_6875-copy-388x220.jpg",
+    "latitude": 39.5518077,
+    "longitude": -7.8553177,
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/bmm11-ocreza-off-grid/"
+  },
+  {
+    "name": "LNG15-9: Benquerencas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/000-24-388x220.jpg",
+    "latitude": 39.7922698,
+    "longitude": -7.591593,
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/lng15-9-benquerencas-land/"
+  },
+  {
+    "name": "LNG11-9: Vale Views",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/0be-c96a-4e83-ab5b-e24b71e824e1.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.9707822,
+    "longitude": -7.5693919,
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/lng11-9-vale-views/"
+  },
+  {
+    "name": "INO11: Meadow Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/10/000696_img_0313-copy-388x220.jpg",
+    "latitude": 39.8958714,
+    "longitude": -7.5560493,
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/ino11-meadow-farm/"
+  },
+  {
+    "name": "GRT19-4: Casa do Fontanario",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/04/IMG_0171-copy-388x220.jpg",
+    "latitude": 39.5907058,
+    "longitude": -8.3143988,
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/grt19-4-casa-do-fontanario/"
+  },
+  {
+    "name": "INO11: River Property",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/05/005-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6168732,
+    "price": 11500,
+    "link": "https://www.pureportugal.co.uk/property/ino11-river-property/"
+  },
+  {
+    "name": "RIV11: Ruin In The Village",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/thumbnail_IMG_0928-copy-388x220.jpg",
+    "latitude": 40.2832111,
+    "longitude": -7.8711322,
+    "price": 11500,
+    "link": "https://www.pureportugal.co.uk/property/riv11-ruin-in-the-village/"
+  },
+  {
+    "name": "INO11-4: Litlle House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1-copy-36-388x220.jpg",
+    "latitude": 40.700619,
+    "longitude": -7.2008742,
+    "price": 11500,
+    "link": "https://www.pureportugal.co.uk/property/ino11-4-litlle-house/"
+  },
+  {
+    "name": "INO11-3: Traditional Olival Grove",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/10/IMG-20220429-WA0000-copy-388x220.jpg",
+    "latitude": 39.902349,
+    "longitude": -7.6292832,
+    "price": 11900,
+    "link": "https://www.pureportugal.co.uk/property/ino11-3-traditional-olival-grove/"
+  },
+  {
+    "name": "RMTR12-4: Quinta Troviscal (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/1-copy-13-388x220.jpg",
+    "latitude": 39.7597588,
+    "longitude": -7.9237284,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr12-4-quinta-troviscal/"
+  },
+  {
+    "name": "LNG12-4: CASA CEBOLAIS (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/02/0hatsApp-Image-2020-09-23-at-12.05.00-copy-388x220.jpeg",
+    "latitude": 39.7459961,
+    "longitude": -7.5765657,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/lng12-4-casa-cebolais/"
+  },
+  {
+    "name": "LNG12-13: São Vicente Forest",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/dba81c10-31c1-4afb-ace0-09a6dee3883d.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.0374967,
+    "longitude": -7.5941088,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/lng12-13-sao-vicente-forest/"
+  },
+  {
+    "name": "LNG12-10: Valley View",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/1cecf7ce8110e042ee4ebdf35b233fd8.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.9707831,
+    "longitude": -7.5612377,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/lng12-10-valley-view/"
+  },
+  {
+    "name": "PRY23-9: Little Pine Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/IMG_1743-copy-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/pry23-9-little-pine-farm/"
+  },
+  {
+    "name": "PRY21: Little Olive Grove",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/AMG_6501-copy-388x220.jpg",
+    "latitude": 39.8378154,
+    "longitude": -8.1745297,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/pry21-little-olive-grove/"
+  },
+  {
+    "name": "LNG12-1: Pousafoles House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/07/20200714_125518-388x220.jpg",
+    "latitude": 39.8502614,
+    "longitude": -7.6865083,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/lng12-1-pousafoles-house/"
+  },
+  {
+    "name": "LNG12-14: Small farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/0e95929e60eb92bcb1912c0d8de0bea8.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.1695518,
+    "longitude": -7.1949372,
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/lng12-14-small-farm/"
+  },
+  {
+    "name": "LNG16-4: Quinta Aranhas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/05/IMG_20210325_154522-copy-1-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/lng16-4-quinta-aranhas/"
+  },
+  {
+    "name": "CASE12-5: Sunny House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-21-388x220.jpg",
+    "latitude": 39.7937097,
+    "longitude": -8.0302914,
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/case12-5-sunny-house/"
+  },
+  {
+    "name": "ESF12: Building Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/02/0001-40-388x220.jpg",
+    "latitude": 39.3260596,
+    "longitude": -8.8613712,
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/esf12-building-plot/"
+  },
+  {
+    "name": "LNG15-3: Little Clearing Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/08/20200615_162724-copy-388x220.jpg",
+    "latitude": 39.8587283,
+    "longitude": -7.7514074,
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/lng15-3-little-clearing-farm/"
+  },
+  {
+    "name": "LNG12-13: Rustic Aranhas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20220524_182307-copy-1-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/lng12-13-rustic-aranhas-land/"
+  },
+  {
+    "name": "CASE12-2: Blue Door Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/06/0001-99-388x220.jpg",
+    "latitude": 39.8892547,
+    "longitude": -8.3445282,
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/case12-2-blue-door-farm/"
+  },
+  {
+    "name": "LNG12-13: Rustic Aranhas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20220524_182307-copy-1-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/lng12-13-rustic-aranhas-land/"
+  },
+  {
+    "name": "LPI12: Quinta Ródão",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/01/IMG_20200505_172236-copy-388x220.jpg",
+    "latitude": 39.744605,
+    "longitude": -7.6336241,
+    "price": 12750,
+    "link": "https://www.pureportugal.co.uk/property/lpi12-quinta-rodao/"
+  },
+  {
+    "name": "PRY13: Sunny Smallholding",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/00-IMG_6470-copy-388x220.jpg",
+    "latitude": 40.0179518,
+    "longitude": -8.2620842,
+    "price": 13000,
+    "link": "https://www.pureportugal.co.uk/property/pry13-sunny-smallholding/"
+  },
+  {
+    "name": "HKP13: Horta Cimeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/Horta-Cimeira-Home-Key-Portugal-7-copy-388x220.jpg",
+    "latitude": 39.8509636,
+    "longitude": -7.7047885,
+    "price": 13000,
+    "link": "https://www.pureportugal.co.uk/property/hkp13-horta-cimeira/"
+  },
+  {
+    "name": "ELP13: LAND & CARAVAN",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/08/IMG_20200718_183822-1-360x220.jpg",
+    "latitude": 40.0292279,
+    "longitude": -8.3908296,
+    "price": 13000,
+    "link": "https://www.pureportugal.co.uk/property/elp13-land-caravan/"
+  },
+  {
+    "name": "XST13: Mogadouro Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/02/IMG_20200207_172921-copy-388x220.jpg",
+    "latitude": 39.9034176,
+    "longitude": -8.4808418,
+    "price": 13000,
+    "link": "https://www.pureportugal.co.uk/property/xst13-mogadouro-land/"
+  },
+  {
+    "name": "MMR15-4: Quinta Bemposta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/05/IMG_20210324_171144-copy-388x220.jpg",
+    "latitude": 40.0709329,
+    "longitude": -7.2435342,
+    "price": 13000,
+    "link": "https://www.pureportugal.co.uk/property/mmr15-4-quinta-bemposta/"
+  },
+  {
+    "name": "ESF13-1: Ruína do Outão",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/1-954-Custom-copy-388x220.jpg",
+    "latitude": 39.9177126,
+    "longitude": -8.1602118,
+    "price": 13200,
+    "link": "https://www.pureportugal.co.uk/property/esf13-1-ruina-do-outao/"
+  },
+  {
+    "name": "HAU13-1: Freixal Land (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/0-1-388x220.jpg",
+    "latitude": 39.924952,
+    "longitude": -7.5724392,
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/hau13-1-freixal-land/"
+  },
+  {
+    "name": "HAU16-1: Pine Lands",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/12/IMG_5310-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168716,
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/hau16-1-pine-lands/"
+  },
+  {
+    "name": "LNG13-4: Nice Little Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/IMG_20220927_112254-copy-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/lng13-4-nice-little-farm/"
+  },
+  {
+    "name": "PTP13: Little Blue",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/11/0000-1-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445745,
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/ptp13-little-blue/"
+  },
+  {
+    "name": "LNG22-2: Quinta Rustic",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/0MG_20210212_153802-copy-388x220.jpg",
+    "latitude": 39.639538,
+    "longitude": -7.84973,
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/lng22-2-quinta-rustic/"
+  },
+  {
+    "name": "HAU13: Freixal Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/dji_fly_20230118_150048_374_1674054145718_photo_optimized-copy-388x220.jpg",
+    "latitude": 39.924952,
+    "longitude": -7.5724392,
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/hau13-freixal-farm/"
+  },
+  {
+    "name": "ESF13: Peaceful Place",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/unnamed-0-copy-388x220.jpg",
+    "latitude": 39.4395675,
+    "longitude": -8.4302738,
+    "price": 13900,
+    "link": "https://www.pureportugal.co.uk/property/esf13-peaceful-place/"
+  },
+  {
+    "name": "BMM17: Tapada da Casa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/05/IMG_2019-copy-388x220.jpg",
+    "latitude": 39.8932641,
+    "longitude": -7.3556897,
+    "price": 14000,
+    "link": "https://www.pureportugal.co.uk/property/bmm17-tapada-da-casa/"
+  },
+  {
+    "name": "NNR14: Pequena Casa de Aldeia",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/11/0001-45-388x220.jpg",
+    "latitude": 40.1817041,
+    "longitude": -8.0364507,
+    "price": 14000,
+    "link": "https://www.pureportugal.co.uk/property/nnr14-pequena-casa-de-aldeia/"
+  },
+  {
+    "name": "MMR15: Terra de Cultura",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/01/0001-14-388x220.jpg",
+    "latitude": 40.0044524,
+    "longitude": -7.2355628,
+    "price": 14000,
+    "link": "https://www.pureportugal.co.uk/property/mmr15-terra-de-cultura/"
+  },
+  {
+    "name": "INO12-1: Florest Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/0-10-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168716,
+    "price": 14000,
+    "link": "https://www.pureportugal.co.uk/property/ino12-1-florest-land/"
+  },
+  {
+    "name": "MMR16-1: Bemposta Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/05/IMG_20210324_173251-copy-388x220.jpg",
+    "latitude": 40.0709329,
+    "longitude": -7.2435342,
+    "price": 14000,
+    "link": "https://www.pureportugal.co.uk/property/mmr16-1-bemposta-land/"
+  },
+  {
+    "name": "LNG14-8: Tojeiras Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1o-20220920_164425-copy-388x220.jpg",
+    "latitude": 39.8065927,
+    "longitude": -7.7067831,
+    "price": 14000,
+    "link": "https://www.pureportugal.co.uk/property/lng14-8-tojeiras-farm/"
+  },
+  {
+    "name": "PRY14: Fratel Shale House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/1-1024x768-copy-3-388x220.jpg",
+    "latitude": 39.6275791,
+    "longitude": -7.9047587,
+    "price": 14000,
+    "link": "https://www.pureportugal.co.uk/property/pry14-fratel-shale-house/"
+  },
+  {
+    "name": "PTC14: Poçaria",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_6141-copy-388x220.jpg",
+    "latitude": 39.5030048,
+    "longitude": -8.1039272,
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/ptc14-pocaria/"
+  },
+  {
+    "name": "GRT14-2: The Barn",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/12/0MG_8563-copy-388x220.jpg",
+    "latitude": 39.5620802,
+    "longitude": -8.2081157,
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/grt14-2-the-barns/"
+  },
+  {
+    "name": "HAU17: Quinta Palvarinho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/2022-05-19-13-08-51-825-copy-388x220.jpg",
+    "latitude": 39.8728593,
+    "longitude": -7.5816132,
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/hau17-quinta-palvarinho/"
+  },
+  {
+    "name": "HAU17-3: Quinta Lourenco (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/0022-05-19-11-36-18-932-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/hau17-3-quinta-lourenco/"
+  },
+  {
+    "name": "HKP12-7: Casa de Cima (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/0DSC07069-1024x683-copy-388x220.jpg",
+    "latitude": 39.8065927,
+    "longitude": -7.7067831,
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/hkp12-7-casa-de-cima/"
+  },
+  {
+    "name": "INO14-1: Liria Property",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/IMG-20211110-WA0000-copy-288x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168716,
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/ino14-1-liria-property/"
+  },
+  {
+    "name": "GRT14-2: Tagus Riverview (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/IMG_0666-copy-388x220.jpg",
+    "latitude": 39.4398192,
+    "longitude": -8.2879376,
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/grt14-2-tagus-riverview/"
+  },
+  {
+    "name": "ESF14: Ruin and Quinta in Padrões",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/unnamed-0-copy-1-388x220.jpg",
+    "latitude": 39.9523418,
+    "longitude": -8.1162152,
+    "price": 14900,
+    "link": "https://www.pureportugal.co.uk/property/esf14-ruin-and-quinta-in-padroes/"
+  },
+  {
+    "name": "MTB19: The Ruins",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/10/1-copy-14-388x220.jpg",
+    "latitude": 40.3639975,
+    "longitude": -7.9193032,
+    "price": 14900,
+    "link": "https://www.pureportugal.co.uk/property/mtb19-the-ruins/"
+  },
+  {
+    "name": "RMCB14: Mimosa Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/01/00-copy-3-388x220.jpg",
+    "latitude": 40.1695846,
+    "longitude": -7.1949372,
+    "price": 14999,
+    "link": "https://www.pureportugal.co.uk/property/rmcb14-mimosa-farm/"
+  },
+  {
+    "name": "ELL15: São Vicente House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-copy-7-388x220.jpg",
+    "latitude": 39.8904979,
+    "longitude": -7.589346,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/ell15-sao-vicente-house/"
+  },
+  {
+    "name": "ALM15-3: property in the enchanted valley",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/Image-copy-388x220.jpeg",
+    "latitude": 40.8031133,
+    "longitude": -8.1643319,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/alm15-3-property-in-the-enchanted-valley/"
+  },
+  {
+    "name": "CKI15: Piao Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/01/2013-09-20-10.04.41-copy-388x220.jpg",
+    "latitude": 40.163812,
+    "longitude": -8.120364,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/cki15-piao-land/"
+  },
+  {
+    "name": "LNG15-14: Penamacor Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/0-4-388x220.jpg",
+    "latitude": 40.1695846,
+    "longitude": -7.1949372,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/lng15-14-penamacor-land/"
+  },
+  {
+    "name": "INO15-12: House to Restore",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/0c57f5f0-137b-4a61-8249-3fb72a69beda-copy-388x220.jpg",
+    "latitude": 39.4157757,
+    "longitude": -8.3276525,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/ino15-12-house-to-restore/"
+  },
+  {
+    "name": "ESF15: Quinta com Ruína",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/11/0001-95-388x220.jpg",
+    "latitude": 39.912917,
+    "longitude": -8.1308356,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/esf15-quinta-com-ruina/"
+  },
+  {
+    "name": "ISAB15: Little House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/11/IMG_20190422_092412-copy-388x220.jpg",
+    "latitude": 40.0884373,
+    "longitude": -8.3484,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/isab15-little-house/"
+  },
+  {
+    "name": "CASE25-13: Pine Ridge",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-99-388x220.jpg",
+    "latitude": 39.8380155,
+    "longitude": -8.2449199,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/case25-13-pine-ridge/"
+  },
+  {
+    "name": "RMTR30-3: Valley View",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/1-copy-9-388x220.jpg",
+    "latitude": 39.8715597,
+    "longitude": -7.9464966,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr30-3-valley-view/"
+  },
+  {
+    "name": "LNG15-12: Sarzedas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/00220124_153621-copy-388x220.jpg",
+    "latitude": 39.8509648,
+    "longitude": -7.692257,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/lng15-12-sarzedas-land/"
+  },
+  {
+    "name": "XST15: Ansião Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/02/010-copy-32-388x220.jpg",
+    "latitude": 39.9034176,
+    "longitude": -8.4808418,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/xst15-ansiao-quinta/"
+  },
+  {
+    "name": "PTP15-3: Casa Bemposta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/09/000-8-388x220.jpg",
+    "latitude": 40.0708711,
+    "longitude": -7.2260242,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/ptp15-3-casa-bemposta/"
+  },
+  {
+    "name": "LNG15: Willowbank Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/12/20201013_155123-copy-388x220.jpg",
+    "latitude": 39.8728757,
+    "longitude": -7.5816132,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/lng15-willowbank-farm/"
+  },
+  {
+    "name": "ELL15: São Vicente House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-copy-7-388x220.jpg",
+    "latitude": 39.8904979,
+    "longitude": -7.589346,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/ell15-sao-vicente-house/"
+  },
+  {
+    "name": "ALM15-3: property in the enchanted valley",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/Image-copy-388x220.jpeg",
+    "latitude": 40.8031133,
+    "longitude": -8.1643319,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/alm15-3-property-in-the-enchanted-valley/"
+  },
+  {
+    "name": "CKI15: Piao Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/01/2013-09-20-10.04.41-copy-388x220.jpg",
+    "latitude": 40.163812,
+    "longitude": -8.120364,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/cki15-piao-land/"
+  },
+  {
+    "name": "LNG15-14: Penamacor Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/0-4-388x220.jpg",
+    "latitude": 40.1695846,
+    "longitude": -7.1949372,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/lng15-14-penamacor-land/"
+  },
+  {
+    "name": "HAU15-2: Sobral Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/dji_fly_20221109_105832_300_1667995135073_photo_optimized-copy-388x220.jpg",
+    "latitude": 39.9805892,
+    "longitude": -7.5950496,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/hau15-2-sobral-rustic-land/"
+  },
+  {
+    "name": "ELL15-1: Land & VINEYARD",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/1-copy-27-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168727,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/ell15-1-land-vineyard/"
+  },
+  {
+    "name": "INO15: Monsanto Reach",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/0a1998c93f739fddede268dc07e3be302.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.0041894,
+    "longitude": -7.2425952,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/ino15-monsanto-reach/"
+  },
+  {
+    "name": "PRY13: Little Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/00-IMG_2277-copy-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/pry13-little-farm/"
+  },
+  {
+    "name": "INO15: Qiunta Sobreira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/07a3d15937c9020a67ca744ce9.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.785784,
+    "longitude": -7.8971269,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/ino15-qiunta-sobreira/"
+  },
+  {
+    "name": "LAM15: Alvaiazere House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/20220714_114826-copy-311x220.jpg",
+    "latitude": 39.8241157,
+    "longitude": -8.427199,
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/lam15-alvaiazere-house/"
+  },
+  {
+    "name": "INO15-10: House for Renovation",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1-copy-22-388x220.jpg",
+    "latitude": 40.700619,
+    "longitude": -7.2008742,
+    "price": 15500,
+    "link": "https://www.pureportugal.co.uk/property/ino15-10-house-for-renovation/"
+  },
+  {
+    "name": "HAU15-1: Casa Almaceda",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/0-388x220.jpg",
+    "latitude": 40.0046804,
+    "longitude": -7.6696696,
+    "price": 15500,
+    "link": "https://www.pureportugal.co.uk/property/hau15-1-casa-almaceda/"
+  },
+  {
+    "name": "JDC16: Zêzere Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/01/1-min-copy-388x220.jpg",
+    "latitude": 39.6344763,
+    "longitude": -8.1777998,
+    "price": 15500,
+    "link": "https://www.pureportugal.co.uk/property/jdc16-zezere-farm/"
+  },
+  {
+    "name": "LPI15: New Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/07/1-copy-1-388x220.jpg",
+    "latitude": 39.8031161,
+    "longitude": -7.4597725,
+    "price": 15500,
+    "link": "https://www.pureportugal.co.uk/property/lpi15-new-farm/"
+  },
+  {
+    "name": "ESF15-3: Pedrogao Paradise",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/unnamed-0-copy-2-388x220.jpg",
+    "latitude": 39.9177126,
+    "longitude": -8.1602118,
+    "price": 15500,
+    "link": "https://www.pureportugal.co.uk/property/esf15-3-pedrogao-paradise/"
+  },
+  {
+    "name": "CASE15-4: Land Of Oaks",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0003-24-388x220.jpg",
+    "latitude": 39.7183754,
+    "longitude": -8.0277951,
+    "price": 15575,
+    "link": "https://www.pureportugal.co.uk/property/case15-4-land-of-oaks/"
+  },
+  {
+    "name": "JGV18: Peaceful Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/06/000P596_3D_v01.01-Imagem09-copy-388x220.jpg",
+    "latitude": 39.3950634,
+    "longitude": -8.6765618,
+    "price": 15700,
+    "link": "https://www.pureportugal.co.uk/property/jgv18-peaceful-plot/"
+  },
+  {
+    "name": "INO16-1: Peace Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/08/000-1-388x220.jpg",
+    "latitude": 40.1552418,
+    "longitude": -7.5309556,
+    "price": 15900,
+    "link": "https://www.pureportugal.co.uk/property/ino16-1-peace-quinta/"
+  },
+  {
+    "name": "FRC32: Quinta Goncalo",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/05/20220830_175032-copy-388x220.jpg",
+    "latitude": 40.4198123,
+    "longitude": -7.3561051,
+    "price": 15999,
+    "link": "https://www.pureportugal.co.uk/property/frc32-quinta-goncalo/"
+  },
+  {
+    "name": "GRT16-1: The Barns",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/01/000-1-388x220.jpeg",
+    "latitude": 40.0952759,
+    "longitude": -7.7893468,
+    "price": 16000,
+    "link": "https://www.pureportugal.co.uk/property/grt16-1-the-barns/"
+  },
+  {
+    "name": "JVAL16-3: Old Beam House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/08/0001-50-388x220.jpg",
+    "latitude": 40.1247361,
+    "longitude": -7.4401952,
+    "price": 16000,
+    "link": "https://www.pureportugal.co.uk/property/jval16-3-old-beam-house/"
+  },
+  {
+    "name": "INO16: Miradouro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/12/IMG-20211022-WA0014-copy-288x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168716,
+    "price": 16000,
+    "link": "https://www.pureportugal.co.uk/property/ino16-miradouro/"
+  },
+  {
+    "name": "CASE16-4: Ivy Smallholding",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-3-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 16500,
+    "link": "https://www.pureportugal.co.uk/property/case16-4-ivy-smallholding/"
+  },
+  {
+    "name": "HAU16-2: Ingarnal Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/000-388x220.jpg",
+    "latitude": 40.0233539,
+    "longitude": -7.7141527,
+    "price": 16500,
+    "link": "https://www.pureportugal.co.uk/property/hau16-2-ingarnal-land/"
+  },
+  {
+    "name": "MIR16-2: Renovation Project",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/11/IMG_20201119_160007-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 16500,
+    "link": "https://www.pureportugal.co.uk/property/mir16-2-renovation-project/"
+  },
+  {
+    "name": "INO14: Hillside Property",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/04/0IMG_20210406_120320-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031937,
+    "price": 16500,
+    "link": "https://www.pureportugal.co.uk/property/ino14-hillside-property/"
+  },
+  {
+    "name": "MIR16-3: Woodland property",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/IMG_20220802_113920-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168727,
+    "price": 16750,
+    "link": "https://www.pureportugal.co.uk/property/mir16-3-woodland-property/"
+  },
+  {
+    "name": "LNG17-7: Quinta Ninho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/0-5-388x220.jpg",
+    "latitude": 39.9707995,
+    "longitude": -7.5612377,
+    "price": 17000,
+    "link": "https://www.pureportugal.co.uk/property/lng17-7-quinta-ninho/"
+  },
+  {
+    "name": "HAU11-1: Rodeios Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/3f387855bd39bb5078befb40b7ccc0f6.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.7404587,
+    "longitude": -7.6629482,
+    "price": 17000,
+    "link": "https://www.pureportugal.co.uk/property/hau11-1-rodeios-plot/"
+  },
+  {
+    "name": "ESF17: Old Stone House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/1-589-Custom-copy-388x220.jpg",
+    "latitude": 39.9177126,
+    "longitude": -8.1602118,
+    "price": 17000,
+    "link": "https://www.pureportugal.co.uk/property/esf17-old-stone-house/"
+  },
+  {
+    "name": "LNG25-4: Stonewall Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/20191217_135701_resize-388x220.jpg",
+    "latitude": 39.7459796,
+    "longitude": -7.5765657,
+    "price": 17000,
+    "link": "https://www.pureportugal.co.uk/property/lng25-4-stonewall-quinta/"
+  },
+  {
+    "name": "ELL17: LAND WITH  POND",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0SC7011-Custom-copy-388x220.jpg",
+    "latitude": 39.8065927,
+    "longitude": -7.7067831,
+    "price": 17000,
+    "link": "https://www.pureportugal.co.uk/property/ell17-land-with-pond/"
+  },
+  {
+    "name": "CASE19-12: Carvalhal Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/2-copy-1-388x220.jpeg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168716,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/case19-12-carvalhal-land/"
+  },
+  {
+    "name": "LNG17-4: Little Old House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/06/000-18-388x220.jpg",
+    "latitude": 39.7922863,
+    "longitude": -7.5915716,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/lng17-4-little-old-house/"
+  },
+  {
+    "name": "SGH17: Building For Renovation With Land Close To The River",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/03/0001-80-388x220.jpg",
+    "latitude": 39.8182235,
+    "longitude": -7.49287,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/sgh17-building-for-renovation-with-land-close-to-the-river/"
+  },
+  {
+    "name": "LNG17-6: Alder Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/0-12-388x220.jpg",
+    "latitude": 40.0162988,
+    "longitude": -7.6560687,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/lng17-6-alder-farm/"
+  },
+  {
+    "name": "INO17-4: A Pelicana",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/1-copy-5-288x220.jpg",
+    "latitude": 40.1695518,
+    "longitude": -7.1949372,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/ino17-4-a-pelicana/"
+  },
+  {
+    "name": "INO17-3: Colina das Boas Vistas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/0-29-388x220.jpg",
+    "latitude": 40.1695518,
+    "longitude": -7.1949372,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/ino17-3-colina-das-boas-vistas/"
+  },
+  {
+    "name": "AJK22: O Lagar",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/12/0001-55-388x220.jpg",
+    "latitude": 40.6297115,
+    "longitude": -7.2031173,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/ajk22-o-lagar/"
+  },
+  {
+    "name": "SGH8: Ruin With Potential To Extend & Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/03/0001-53-388x220.jpg",
+    "latitude": 39.8182235,
+    "longitude": -7.49287,
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/sgh8-ruin-with-potential-to-extend-land/"
+  },
+  {
+    "name": "MIR17-4: Quintinha no Regadio",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/20230329_181329-copy-388x220.jpg",
+    "latitude": 39.8854974,
+    "longitude": -7.3582579,
+    "price": 17600,
+    "link": "https://www.pureportugal.co.uk/property/mir17-4-quintinha-no-regadio/"
+  },
+  {
+    "name": "XST18-3: Sobral Cottage",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/002-copy-388x220.jpg",
+    "latitude": 40.0544372,
+    "longitude": -7.9826316,
+    "price": 18000,
+    "link": "https://www.pureportugal.co.uk/property/xst18-3-sobral-cottage/"
+  },
+  {
+    "name": "XST18-2: Casa Ribeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/05/go_photo_1620830084978-copy-388x220.jpg",
+    "latitude": 39.9997216,
+    "longitude": -8.2625588,
+    "price": 18000,
+    "link": "https://www.pureportugal.co.uk/property/xst18-2-casa-ribeira/"
+  },
+  {
+    "name": "MIR18: Grasslands Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/01/00-388x220.jpg",
+    "latitude": 40.3542819,
+    "longitude": -7.8718458,
+    "price": 18000,
+    "link": "https://www.pureportugal.co.uk/property/mir18-grasslands-quinta/"
+  },
+  {
+    "name": "CASE18-5: Troviscal Ruins",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/20220702_105424-copy-388x220.jpg",
+    "latitude": 40.5007606,
+    "longitude": -8.5953424,
+    "price": 18000,
+    "link": "https://www.pureportugal.co.uk/property/case18-5-troviscal-ruins/"
+  },
+  {
+    "name": "XST22-2: Castanheira Ruin",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/02/0-copy-388x220.jpeg",
+    "latitude": 40.0179518,
+    "longitude": -8.2620842,
+    "price": 18000,
+    "link": "https://www.pureportugal.co.uk/property/xst22-2-castanheira-ruin/"
+  },
+  {
+    "name": "PRY18-4: Carvalhal House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/R878-copy-388x220.jpg",
+    "latitude": 39.8635253,
+    "longitude": -7.9975336,
+    "price": 18000,
+    "link": "https://www.pureportugal.co.uk/property/pry18-4-carvalhal-house/"
+  },
+  {
+    "name": "LNG18-9: Quintas da Torre",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/20220423_150420-copy-1-388x220.jpg",
+    "latitude": 40.1551762,
+    "longitude": -7.5309556,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/lng18-9-quintas-da-torre/"
+  },
+  {
+    "name": "ESF18-1: Porto de Vacas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/0.5-1036-copy-388x220.jpg",
+    "latitude": 40.0504971,
+    "longitude": -8.0174923,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/esf18-1-porto-de-vacas/"
+  },
+  {
+    "name": "PRY18-1 Vineyard Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/10/0001-56-388x220.jpg",
+    "latitude": 39.4885044,
+    "longitude": -8.4493821,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/pry18-1-vineyard-farm/"
+  },
+  {
+    "name": "LPI18: Farmhouse by the river",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/22-copy-5-388x220.jpg",
+    "latitude": 40.027385,
+    "longitude": -7.5145867,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/lpi18-farmhouse-by-the-river/"
+  },
+  {
+    "name": "LNG18-10: Salvaterra Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/0-22-388x220.jpg",
+    "latitude": 39.9021003,
+    "longitude": -7.0212441,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/lng18-10-salvaterra-land/"
+  },
+  {
+    "name": "INO18: Casa na Aldeia",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/1-copy-388x220.jpg",
+    "latitude": 39.8377523,
+    "longitude": -8.244576,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/ino18-casa-na-aldeia/"
+  },
+  {
+    "name": "LNG18-10: Adorable little farm (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20220927_104937-copy-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/lng18-10-adorable-little-farm/"
+  },
+  {
+    "name": "BMM18: Lousa Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/IMG_1330-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168727,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/bmm18-lousa-farm/"
+  },
+  {
+    "name": "LNG18-6: Little Lardosa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/000-4-388x220.jpeg",
+    "latitude": 39.988253,
+    "longitude": -7.4524989,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/lng18-6-little-lardosa/"
+  },
+  {
+    "name": "LNG18-11: Rustic Penamacor Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/0-30-388x220.jpg",
+    "latitude": 40.1695518,
+    "longitude": -7.1949372,
+    "price": 18500,
+    "link": "https://www.pureportugal.co.uk/property/lng18-11-rustic-penamacor-land/"
+  },
+  {
+    "name": "ANB18-1: Tapada do Espadeiro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/IMG_1984-copy-388x220.jpg",
+    "latitude": 40.1153508,
+    "longitude": -7.1814363,
+    "price": 18750,
+    "link": "https://www.pureportugal.co.uk/property/anb18-1-tapada-do-espadeiro/"
+  },
+  {
+    "name": "PRY19-6: Casa Castanheira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/01-1024x768-copy-388x220.jpg",
+    "latitude": 39.8142802,
+    "longitude": -8.1739866,
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/pry19-6-casa-castanheira/"
+  },
+  {
+    "name": "PRY23-1: Vineyard Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/DSC00329-copy-388x220.jpg",
+    "latitude": 39.8378154,
+    "longitude": -8.1745297,
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/pry23-1-vineyard-quinta/"
+  },
+  {
+    "name": "PRY19-6: Casa Castanheira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/01-1024x768-copy-388x220.jpg",
+    "latitude": 39.8142802,
+    "longitude": -8.1739866,
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/pry19-6-casa-castanheira/"
+  },
+  {
+    "name": "PRY23-1: Vineyard Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/DSC00329-copy-388x220.jpg",
+    "latitude": 39.8378154,
+    "longitude": -8.1745297,
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/pry23-1-vineyard-quinta/"
+  },
+  {
+    "name": "PRY23-11: Currais Ruin",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/05/IMG_6472-1024x768-copy-388x220.jpg",
+    "latitude": 39.9177126,
+    "longitude": -8.1602118,
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/pry23-11-currais-ruin/"
+  },
+  {
+    "name": "LNG19-1: The Pines",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/05/000-388x220.jpg",
+    "latitude": 39.9245842,
+    "longitude": -7.5582764,
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/lng19-1-the-pines/"
+  },
+  {
+    "name": "RMTR19-7: Castelo Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/1-copy-12-388x220.jpg",
+    "latitude": 39.6322751,
+    "longitude": -7.9157315,
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr19-7-castelo-quinta/"
+  },
+  {
+    "name": "CASE19-5: Xisto Ruin",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/03/0001-67-388x220.jpg",
+    "latitude": 39.943537,
+    "longitude": -8.3248086,
+    "price": 19400,
+    "link": "https://www.pureportugal.co.uk/property/case19-5-xisto-ruin/"
+  },
+  {
+    "name": "LNG21-3: Santo Andre Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1o-20220921_145543-copy-388x220.jpg",
+    "latitude": 39.8065927,
+    "longitude": -7.7067831,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/lng21-3-santo-andre-farm/"
+  },
+  {
+    "name": "INO19-4: Casa da Aldeia",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/1-copy-3-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/ino19-4-casa-da-aldeia/"
+  },
+  {
+    "name": "XST19-4 Tumbledown House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/10/IMG_8161-copy-388x220.jpg",
+    "latitude": 39.9434686,
+    "longitude": -8.2547625,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/xst19-4-tumbledown-house/"
+  },
+  {
+    "name": "HAU22-1: Casa Ribeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/0-3-388x220.jpg",
+    "latitude": 39.8287226,
+    "longitude": -7.7845897,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/hau22-1-casa-ribeira/"
+  },
+  {
+    "name": "CASE19-6: Hilltop House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/06/0001-9-388x220.jpg",
+    "latitude": 39.850277,
+    "longitude": -7.6952631,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/case19-6-hilltop-house/"
+  },
+  {
+    "name": "INO19-3: House Vale Cobrão",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-3-388x220.jpg",
+    "latitude": 39.707102,
+    "longitude": -7.7339338,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/ino19-3-house-vale-cobrao/"
+  },
+  {
+    "name": "CASE19-11: Grace Ruins",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/10/0-copy-1-388x220.jpg",
+    "latitude": 39.8931288,
+    "longitude": -8.2245916,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/case19-11-grace-ruins/"
+  },
+  {
+    "name": "CASE19-9: Country Retreat",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-18-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/case19-9-country-retreat/"
+  },
+  {
+    "name": "PTC19: Casa do Gato",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_5127-copy-388x220.jpg",
+    "latitude": 39.6087997,
+    "longitude": -8.0987332,
+    "price": 19900,
+    "link": "https://www.pureportugal.co.uk/property/ptc19-casa-do-gato/"
+  },
+  {
+    "name": "INO19-2: Arbutus Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/04/0-6-388x220.jpg",
+    "latitude": 39.9203715,
+    "longitude": -7.91805,
+    "price": 19900,
+    "link": "https://www.pureportugal.co.uk/property/ino19-2-arbutus-land/"
+  },
+  {
+    "name": "ESF19-4: Casa Bom Velho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/1-688-Custom-copy-388x220.jpg",
+    "latitude": 40.1106788,
+    "longitude": -8.4583782,
+    "price": 19900,
+    "link": "https://www.pureportugal.co.uk/property/esf19-4-casa-bom-velho/"
+  },
+  {
+    "name": "CASE19-7: Quinta dos Três Concelhos",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/06/0001-98-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445761,
+    "price": 19900,
+    "link": "https://www.pureportugal.co.uk/property/case19-7-quinta-dos-tres-concelhos/"
+  },
+  {
+    "name": "LNG20: Little Pines",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/06/20200519_131043-388x220.jpg",
+    "latitude": 39.8197117,
+    "longitude": -7.4964662,
+    "price": 19900,
+    "link": "https://www.pureportugal.co.uk/property/lng20-little-pines/"
+  },
+  {
+    "name": "RMTR20-1: Delgadinho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/1-copy-12-388x220.jpg",
+    "latitude": 39.7958959,
+    "longitude": -8.1153107,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr20-1-delgadinho/"
+  },
+  {
+    "name": "SGH20: Sarzedas House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/0IMG_0040-copy-388x220.jpg",
+    "latitude": 39.8698506,
+    "longitude": -7.8592204,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/sgh20-sarzedas-house/"
+  },
+  {
+    "name": "PTP20-1: Quinta Rodao",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/09/000-10-388x220.jpg",
+    "latitude": 39.6631865,
+    "longitude": -7.6897566,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/ptp20-1-quinta-rodao/"
+  },
+  {
+    "name": "CASE20-5: Antiga Casa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/01/0001-36-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445766,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/case20-5-antiga-casa/"
+  },
+  {
+    "name": "TIP22: House and land, a well & fruit trees",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/IMG_3414-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/tip22-house-and-land-a-well-fruit-trees/"
+  },
+  {
+    "name": "HKP20: LAMEIRINHA",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/11/DSC03095-1024x683-copy-388x220.jpg",
+    "latitude": 39.988253,
+    "longitude": -7.4524989,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/hkp20-lameirinha/"
+  },
+  {
+    "name": "RMTR20-2: Mountain View Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/1-copy-1-388x220.jpg",
+    "latitude": 39.975732,
+    "longitude": -7.9689425,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr20-2-mountain-view-farm/"
+  },
+  {
+    "name": "HAU20-1: Ingarnal House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/3848c8ad4bc5c51abf843acfac58f6f4.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.0233539,
+    "longitude": -7.7141527,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/hau20-1-ingarnal-house/"
+  },
+  {
+    "name": "INO20: Quintinha",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/09f72c323961cf8b283d770abe631ad6.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.9203715,
+    "longitude": -7.91805,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/ino20-quintinha/"
+  },
+  {
+    "name": "LNG20-3: Quinta Sarzedas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/1a-20220427_170659-copy-388x220.jpg",
+    "latitude": 39.8509648,
+    "longitude": -7.692257,
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/lng20-3-quinta-sarzedas/"
+  },
+  {
+    "name": "CASE30-4: Casa de Aldeia Rústica",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/01/0001-37-388x220.jpg",
+    "latitude": 39.7541724,
+    "longitude": -8.8759992,
+    "price": 20300,
+    "link": "https://www.pureportugal.co.uk/property/case30-4-casa-de-aldeia-rustica/"
+  },
+  {
+    "name": "BSF24: Coja Building Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/09/000-copy-35-388x220.jpg",
+    "latitude": 40.2690606,
+    "longitude": -7.9973652,
+    "price": 21000,
+    "link": "https://www.pureportugal.co.uk/property/bsf24-coja-building-plot/"
+  },
+  {
+    "name": "CASE21-3: shale house",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/1-copy-2-388x220.jpeg",
+    "latitude": 39.8377523,
+    "longitude": -8.244576,
+    "price": 21000,
+    "link": "https://www.pureportugal.co.uk/property/case21-3-shale-house/"
+  },
+  {
+    "name": "LNG21-4: Poco Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-13-at-20.02.54-2-copy-388x220.jpeg",
+    "latitude": 39.9805008,
+    "longitude": -7.7076796,
+    "price": 21000,
+    "link": "https://www.pureportugal.co.uk/property/lng21-4-poco-land/"
+  },
+  {
+    "name": "JNN21: Productive Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/6-copy-388x220.jpeg",
+    "latitude": 41.102568,
+    "longitude": -8.0659953,
+    "price": 21000,
+    "link": "https://www.pureportugal.co.uk/property/jnn21-productive-land/"
+  },
+  {
+    "name": "MIR21-1: The Quiet Place",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/11/0001-26-388x220.jpg",
+    "latitude": 39.8116275,
+    "longitude": -7.533147,
+    "price": 21000,
+    "link": "https://www.pureportugal.co.uk/property/mir21-1-the-quiet-place/"
+  },
+  {
+    "name": "SGH21: Xisto Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/05/0001-81-388x220.jpg",
+    "latitude": 39.9204044,
+    "longitude": -7.91805,
+    "price": 21150,
+    "link": "https://www.pureportugal.co.uk/property/sgh21-xisto-village-house/"
+  },
+  {
+    "name": "CASE21-1: The Yellow House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-21-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 21500,
+    "link": "https://www.pureportugal.co.uk/property/case21-1-the-yellow-house/"
+  },
+  {
+    "name": "CASE21-2 Little Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/10/0001-22-388x220.jpg",
+    "latitude": 39.9315792,
+    "longitude": -8.2558013,
+    "price": 21500,
+    "link": "https://www.pureportugal.co.uk/property/case21-2-little-quinta/"
+  },
+  {
+    "name": "DTT26: Plot approved for building a one-family house",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/02/00-4-388x220.jpg",
+    "latitude": 40.5661976,
+    "longitude": -8.0439404,
+    "price": 21500,
+    "link": "https://www.pureportugal.co.uk/property/dtt26-plot-approved-for-building-a-one-family-house/"
+  },
+  {
+    "name": "BMM21: Quinta Vale Fojo",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/10/DSC9538-copy-388x220.jpg",
+    "latitude": 39.8888337,
+    "longitude": -7.3781898,
+    "price": 21500,
+    "link": "https://www.pureportugal.co.uk/property/bmm21-quinta-vale-fojo/"
+  },
+  {
+    "name": "GRT25: Casa da Seteira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/05/0001-17-388x220.jpg",
+    "latitude": 39.8857608,
+    "longitude": -7.3582584,
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/grt25-casa-da-seteira/"
+  },
+  {
+    "name": "RMCB22-1: Olive Oak Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/0MG_0384-copy-388x220.jpg",
+    "latitude": 40.1695518,
+    "longitude": -7.1949372,
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/rmcb22-1-olive-oak-farm/"
+  },
+  {
+    "name": "LNG22-7: Farm and pond",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1o-20221026_172254-copy-388x220.jpg",
+    "latitude": 39.8065927,
+    "longitude": -7.7067831,
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/lng22-7-farm-and-pond/"
+  },
+  {
+    "name": "PRY23-1: Cardiga Ruins",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/00-IMG_0576-copy-388x220.jpg",
+    "latitude": 39.7773978,
+    "longitude": -8.1452805,
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/pry23-1-cardiga-ruins/"
+  },
+  {
+    "name": "MPP22: Matagosa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/Photo-03-12-2021-10-45-02-1-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/mpp22-matagosa/"
+  },
+  {
+    "name": "HKP24: Lameira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/0652120703819-copy-388x220.jpg",
+    "latitude": 39.8509648,
+    "longitude": -7.692257,
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/hkp24-lameira/"
+  },
+  {
+    "name": "PRY25-5: Cimeira House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/AA01-2-1024x768-copy-1-388x220.jpg",
+    "latitude": 39.9177126,
+    "longitude": -8.1602118,
+    "price": 22300,
+    "link": "https://www.pureportugal.co.uk/property/pry25-5-cimeira-house/"
+  },
+  {
+    "name": "HKP22-4: Cabeço do Terreiro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/1_-388x220.jpg",
+    "latitude": 39.9984501,
+    "longitude": -7.5712271,
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/hkp22-4-cabeco-do-terreiro/"
+  },
+  {
+    "name": "HKP22: Casa Roque",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/02/010-copy-16-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/hkp22-casa-roque/"
+  },
+  {
+    "name": "LPI22: Construções de Pedra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/11/0001-14-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031932,
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/lpi22-construcoes-de-pedra/"
+  },
+  {
+    "name": "ELP35-3: Little Stone House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/09/000-2-388x220.jpg",
+    "latitude": 39.8241157,
+    "longitude": -8.4271989,
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/elp35-3-little-stone-house/"
+  },
+  {
+    "name": "LNG22-6: Palvarinho Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/04/1-1-388x220.jpg",
+    "latitude": 39.8728593,
+    "longitude": -7.5816132,
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/lng22-6-palvarinho-quinta/"
+  },
+  {
+    "name": "JVAL22-3: Village Hill House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/08/0001-40-388x220.jpg",
+    "latitude": 40.1552418,
+    "longitude": -7.5309556,
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/jval22-3-village-hill-house/"
+  },
+  {
+    "name": "ESF23-1: Casa da Bonita Vista",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/1-252-Custom-copy-388x220.jpg",
+    "latitude": 39.8892547,
+    "longitude": -8.3445283,
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/esf23-1-casa-da-bonita-vista/"
+  },
+  {
+    "name": "GRT23-1: Riverside",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/000-39-388x220.jpg",
+    "latitude": 37.2219056,
+    "longitude": -18.826979,
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/grt23-1-riverside/"
+  },
+  {
+    "name": "INO23-2: Casa na Aldeia",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/IMG-20230207-WA0009-copy-388x220.jpg",
+    "latitude": 40.0319868,
+    "longitude": -7.4919681,
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/ino23-2-casa-na-aldeia/"
+  },
+  {
+    "name": "RMTR23: Esteval House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/1-copy-2-388x220.jpg",
+    "latitude": 39.6322751,
+    "longitude": -7.9157315,
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr23-esteval-house/"
+  },
+  {
+    "name": "BMI23: Casa em Pedra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/IMG_2159-copy-388x220.jpg",
+    "latitude": 39.9843157,
+    "longitude": -7.4694473,
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/bmi23-casa-em-pedra/"
+  },
+  {
+    "name": "JDC25: Casa Fontão",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/10/21-copy-4-388x220.jpg",
+    "latitude": 39.9757136,
+    "longitude": -8.2727502,
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/jdc25-casa-fontao/"
+  },
+  {
+    "name": "RMCB23-4: 2 Rural Buildings & Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/05/IMG_0886-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 23500,
+    "link": "https://www.pureportugal.co.uk/property/rmcb23-4-2-rural-buildings-land/"
+  },
+  {
+    "name": "RMCB23-4: 2 Rural Buildings & Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/05/IMG_0886-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 23500,
+    "link": "https://www.pureportugal.co.uk/property/rmcb23-4-2-rural-buildings-land/"
+  },
+  {
+    "name": "CASE23-1: Sunnylands",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-2-388x220.jpg",
+    "latitude": 37.2219056,
+    "longitude": -18.826979,
+    "price": 23500,
+    "link": "https://www.pureportugal.co.uk/property/case23-1-sunnylands/"
+  },
+  {
+    "name": "CPN23: Village View",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/09/0001-32-388x220.jpg",
+    "latitude": 40.0175216,
+    "longitude": -8.1078265,
+    "price": 23700,
+    "link": "https://www.pureportugal.co.uk/property/cpn23-village-view/"
+  },
+  {
+    "name": "INO24-2: Figueira Negra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/02/IMG-20220214-WA0008-copy-287x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 24000,
+    "link": "https://www.pureportugal.co.uk/property/ino24-2-figueira-negra/"
+  },
+  {
+    "name": "CPN24: Little Lane Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/09/0001-10-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 24000,
+    "link": "https://www.pureportugal.co.uk/property/cpn24-little-lane-quinta/"
+  },
+  {
+    "name": "CASE24-1: Ruína da Aldeia",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/10/0001-54-388x220.jpg",
+    "latitude": 39.7963837,
+    "longitude": -8.0454182,
+    "price": 24300,
+    "link": "https://www.pureportugal.co.uk/property/case24-1-ruina-da-aldeia/"
+  },
+  {
+    "name": "RMTR24: Mosteiro House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/1-copy-9-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 24300,
+    "link": "https://www.pureportugal.co.uk/property/rmtr24-mosteiro-house/"
+  },
+  {
+    "name": "GRT24-1: Tower House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/000-9-388x220.jpg",
+    "latitude": 39.482645,
+    "longitude": -8.3446786,
+    "price": 24500,
+    "link": "https://www.pureportugal.co.uk/property/grt24-1-tower-house/"
+  },
+  {
+    "name": "HAU24-1: Foothills Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/02/00ceea1042d042bd8127dc3b2565030d-copy-1-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168716,
+    "price": 24500,
+    "link": "https://www.pureportugal.co.uk/property/hau24-1-foothills-farm/"
+  },
+  {
+    "name": "INO24-2: Quinta Sarnadas de Ródão",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-5-388x220.jpg",
+    "latitude": 39.7446004,
+    "longitude": -7.6586877,
+    "price": 24500,
+    "link": "https://www.pureportugal.co.uk/property/ino24-2-quinta-sarnadas-de-rodao/"
+  },
+  {
+    "name": "RMCB24: Orange Tree Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-32-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 24880,
+    "link": "https://www.pureportugal.co.uk/property/rmcb24-orange-tree-farm/"
+  },
+  {
+    "name": "LNG27: Casa Vinho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/10/000-20201013_152630-copy-1-388x220.jpg",
+    "latitude": 39.8752096,
+    "longitude": -7.6143042,
+    "price": 24900,
+    "link": "https://www.pureportugal.co.uk/property/lng27-casa-vinho/"
+  },
+  {
+    "name": "CASE24-7: River Amble",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/1-copy-5-388x220.jpg",
+    "latitude": 39.8116274,
+    "longitude": -7.5469985,
+    "price": 24900,
+    "link": "https://www.pureportugal.co.uk/property/case24-7-river-amble/"
+  },
+  {
+    "name": "XST35-2 Pedra Farmhouse",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/10/0000-1-388x220.jpg",
+    "latitude": 39.9434686,
+    "longitude": -8.2547625,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/xst35-2-pedra-farmhouse/"
+  },
+  {
+    "name": "VRM29: Land with Potential To Build 4 Houses",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/03/0001-40-388x220.jpg",
+    "latitude": 40.4015234,
+    "longitude": -7.8699429,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/vrm29-land-with-potential-to-build-4-houses/"
+  },
+  {
+    "name": "ANM25: Meander Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/07/000-20200701_102253-copy-1-388x220.jpg",
+    "latitude": 40.5787607,
+    "longitude": -7.6518415,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/anm25-meander-farm/"
+  },
+  {
+    "name": "RMTR29-5: Aguas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/1-copy-5-388x220.jpg",
+    "latitude": 40.108856,
+    "longitude": -7.2345583,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr29-5-aguas-land/"
+  },
+  {
+    "name": "LNG25-12: Quinta Sarzedas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/00210602_162425-copy-388x220.jpg",
+    "latitude": 39.8696502,
+    "longitude": -7.7893449,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/lng25-12-quinta-sarzedas/"
+  },
+  {
+    "name": "HAU25-1: Benquerencas House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/1a3e08ed0548b0469edea3e7432fcb0d.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.7922698,
+    "longitude": -7.591593,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/hau25-1-benquerencas-house/"
+  },
+  {
+    "name": "FRC25: Two Springs Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/20211125_141935-copy-388x220.jpg",
+    "latitude": 40.5121318,
+    "longitude": -7.3764792,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/frc25-two-springs-farm/"
+  },
+  {
+    "name": "GBH25: Albardeiros",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/0Cover-Photo_1-copy-388x220.jpg",
+    "latitude": 40.5392356,
+    "longitude": -7.2803795,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/gbh25-albardeiros/"
+  },
+  {
+    "name": "LNG30-7: Quinta Estreito",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/1a-20220330_155706-copy-388x220.jpg",
+    "latitude": 39.9752758,
+    "longitude": -7.7939339,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/lng30-7-quinta-estreito/"
+  },
+  {
+    "name": "LPI25-2: Salgueiro Stonehouse",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/0HOTO-2022-09-26-23-05-30-copy-388x220.jpg",
+    "latitude": 39.890497,
+    "longitude": -7.5975002,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/lpi25-2-salgueiro-stonehouse/"
+  },
+  {
+    "name": "CASE25-16: Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-3-388x220.jpeg",
+    "latitude": 37.2219056,
+    "longitude": -18.826979,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/case25-16-village-house/"
+  },
+  {
+    "name": "PTR25-2: Quinta In National Park",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/02/0001-74-388x220.jpg",
+    "latitude": 39.4587052,
+    "longitude": -8.6952828,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/ptr25-2-quinta-in-national-park/"
+  },
+  {
+    "name": "LPI28: Little Oven House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/01/000-copy-2-388x220.jpg",
+    "latitude": 39.8751437,
+    "longitude": -7.6143041,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/lpi28-little-oven-house/"
+  },
+  {
+    "name": "CASE25-17: Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-39-388x220.jpg",
+    "latitude": 39.9998223,
+    "longitude": -8.3000738,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/case25-17-village-house/"
+  },
+  {
+    "name": "ELL25: Plot of Land in Almaceda",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/00-388x220.jpg",
+    "latitude": 40.0046804,
+    "longitude": -7.6696696,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/ell25-plot-of-land-in-almaceda/"
+  },
+  {
+    "name": "RMTR35-13: Casa Pequeno",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1-copy-10-388x220.jpg",
+    "latitude": 39.912917,
+    "longitude": -8.1308356,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr35-13-casa-pequeno/"
+  },
+  {
+    "name": "CASE25-16: Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-3-388x220.jpeg",
+    "latitude": 37.2219056,
+    "longitude": -18.826979,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/case25-16-village-house/"
+  },
+  {
+    "name": "LPI28: Little Oven House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/01/000-copy-2-388x220.jpg",
+    "latitude": 39.8751437,
+    "longitude": -7.6143041,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/lpi28-little-oven-house/"
+  },
+  {
+    "name": "CASE25-17: Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/1-copy-39-388x220.jpg",
+    "latitude": 39.9998223,
+    "longitude": -8.3000738,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/case25-17-village-house/"
+  },
+  {
+    "name": "PTR25-2: Quinta In National Park",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/02/0001-74-388x220.jpg",
+    "latitude": 39.4587052,
+    "longitude": -8.6952828,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/ptr25-2-quinta-in-national-park/"
+  },
+  {
+    "name": "PRY25-6: Santos Ruins",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/04/1-copy-15-388x220.jpg",
+    "latitude": 39.6001883,
+    "longitude": -7.982341,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/pry25-6-santos-ruins/"
+  },
+  {
+    "name": "ELL25: Plot of Land in Almaceda",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/00-388x220.jpg",
+    "latitude": 40.0046804,
+    "longitude": -7.6696696,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/ell25-plot-of-land-in-almaceda/"
+  },
+  {
+    "name": "RMTR35-13: Casa Pequeno",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1-copy-10-388x220.jpg",
+    "latitude": 39.912917,
+    "longitude": -8.1308356,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr35-13-casa-pequeno/"
+  },
+  {
+    "name": "PIE34: Oliveirinhas da Serra (Under Offer)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/05/eastside-house-copy-388x220.jpg",
+    "latitude": 40.2248435,
+    "longitude": -7.9749694,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/pie34-oliveirinhas-da-serra/"
+  },
+  {
+    "name": "LNG25-14: Stone House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/022414-copy-388x220.jpg",
+    "latitude": 39.9882366,
+    "longitude": -7.4524989,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/lng25-14-stone-house/"
+  },
+  {
+    "name": "XST25-2: River Walk",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/02/010-copy-25-388x220.jpg",
+    "latitude": 39.8892547,
+    "longitude": -8.3445283,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/xst25-2-river-walk/"
+  },
+  {
+    "name": "BMI25: Small Farm Vale Chiqueiro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/10/DSC02406-copy-388x220.jpg",
+    "latitude": 40.0229402,
+    "longitude": -7.305607,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/bmi25-small-farm-vale-chiqueiro/"
+  },
+  {
+    "name": "XST25: The Old Carpenters House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-86-388x220.jpg",
+    "latitude": 40.0274751,
+    "longitude": -8.3949729,
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/xst25-the-old-carpenters-house/"
+  },
+  {
+    "name": "RMCB25-1: Quinta Oliveira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/025-copy-1-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168727,
+    "price": 25500,
+    "link": "https://www.pureportugal.co.uk/property/rmcb25-1-quinta-oliveira/"
+  },
+  {
+    "name": "LNG25-15: Pomar Ruins",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/1a-20220427_151629-copy-388x220.jpg",
+    "latitude": 39.9203532,
+    "longitude": -7.9681794,
+    "price": 25500,
+    "link": "https://www.pureportugal.co.uk/property/lng25-15-pomar-ruins/"
+  },
+  {
+    "name": "HKP25-6: Horta da Laranjeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/Horta-da-Laranjeira-1-copy-388x220.jpg",
+    "latitude": 39.850973,
+    "longitude": -7.692257,
+    "price": 25500,
+    "link": "https://www.pureportugal.co.uk/property/hkp25-6-horta-da-laranjeira/"
+  },
+  {
+    "name": "SGH25-1: Moradia para Restaurar",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/01/0001-63-388x220.jpg",
+    "latitude": 39.7545192,
+    "longitude": -7.5702273,
+    "price": 25500,
+    "link": "https://www.pureportugal.co.uk/property/sgh25-1-moradia-para-restaurar/"
+  },
+  {
+    "name": "RMTR29: Casa Alvito",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/05/1-copy-6-388x220.jpg",
+    "latitude": 39.8353546,
+    "longitude": -7.8252773,
+    "price": 25500,
+    "link": "https://www.pureportugal.co.uk/property/rmtr29-casa-alvito/"
+  },
+  {
+    "name": "LNG27-4: Quinta Campo",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/06/20200506_114604-copy-388x220.jpg",
+    "latitude": 39.9347428,
+    "longitude": -7.6132063,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/lng27-4-quinta-campo/"
+  },
+  {
+    "name": "CASE28-1: Ruin & Land With Lots Of Potential",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/03/0001-10-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/case28-1-ruin-land-with-lots-of-potential/"
+  },
+  {
+    "name": "INO26: Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/05/09d4860acdb2dc61e6b41b76742d7519.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.5366116,
+    "longitude": -7.2732579,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/ino26-rustic-land/"
+  },
+  {
+    "name": "LNG26-3: Quinta Baroque",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/09/20200529_181602-copy-388x220.jpg",
+    "latitude": 39.8383302,
+    "longitude": -7.340989,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/lng26-3-quinta-baroque/"
+  },
+  {
+    "name": "HKP21: Quinta Feiteira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/DJI_0507-1024x767-copy-388x220.jpg",
+    "latitude": 39.7816291,
+    "longitude": -7.7761272,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/hkp21-quinta-feiteira/"
+  },
+  {
+    "name": "CASE26-3: Little Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-141-388x220.jpg",
+    "latitude": 39.9435366,
+    "longitude": -8.3251521,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/case26-3-little-quinta/"
+  },
+  {
+    "name": "INO26: Small Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/4d8e91e2e6e8403c5809586aa277c7dc.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.902349,
+    "longitude": -7.6292833,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/ino26-small-farm/"
+  },
+  {
+    "name": "BMM26: Rustic Palvarinho Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/DJI_0369-copy-388x220.jpg",
+    "latitude": 39.8728593,
+    "longitude": -7.5816132,
+    "price": 26000,
+    "link": "https://www.pureportugal.co.uk/property/bmm26-rustic-palvarinho-land/"
+  },
+  {
+    "name": "HKP26-1: Tapada de Casal",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/02/0SC03988-1024x683-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 26150,
+    "link": "https://www.pureportugal.co.uk/property/hkp26-1-tapada-de-casal/"
+  },
+  {
+    "name": "ESF26-2: Two Ruins Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/1-1060-Custom-copy-388x220.jpg",
+    "latitude": 39.9177126,
+    "longitude": -8.1602118,
+    "price": 26500,
+    "link": "https://www.pureportugal.co.uk/property/esf26-2-two-ruins-farm/"
+  },
+  {
+    "name": "LNG26-3: Aranhas Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20220901_091126_1-copy-388x220.jpg",
+    "latitude": 40.1118249,
+    "longitude": -7.1419539,
+    "price": 26500,
+    "link": "https://www.pureportugal.co.uk/property/lng26-3-aranhas-quinta/"
+  },
+  {
+    "name": "INO26-2: River Beach House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/IMG-20220512-WA0000-copy-359x220.jpg",
+    "latitude": 39.8354205,
+    "longitude": -7.8252774,
+    "price": 26500,
+    "link": "https://www.pureportugal.co.uk/property/ino26-2-river-beach-house/"
+  },
+  {
+    "name": "MIR26: Idanha Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/20230329_175015-copy-388x220.jpg",
+    "latitude": 39.8857608,
+    "longitude": -7.3582584,
+    "price": 26600,
+    "link": "https://www.pureportugal.co.uk/property/mir26-idanha-farm/"
+  },
+  {
+    "name": "LNG27-6: Quiet Farm in Aguas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/0cc664f6af6dcbe391c431e3709fa72d.jpg_ico-copy-388x220.jpg",
+    "latitude": 40.1089217,
+    "longitude": -7.2345584,
+    "price": 27000,
+    "link": "https://www.pureportugal.co.uk/property/lng27-6-quiet-farm-in-aguas/"
+  },
+  {
+    "name": "LNG31: Quonta Povoa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/1df2096d-3fe4-493e-b6d6-fe2770af96e1.jpg_ico-copy-388x220.jpg",
+    "latitude": 39.9416078,
+    "longitude": -7.5062562,
+    "price": 27000,
+    "link": "https://www.pureportugal.co.uk/property/lng31-quonta-povoa/"
+  },
+  {
+    "name": "LDM42: Cosme Barn",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/IMG-20210519-WA0003-2-copy-388x220.jpg",
+    "latitude": 40.4392384,
+    "longitude": -7.9116858,
+    "price": 27000,
+    "link": "https://www.pureportugal.co.uk/property/ldm42-cosme-barn/"
+  },
+  {
+    "name": "PRY39-6: Gaviao Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-1-copy-3-388x220.jpg",
+    "latitude": 39.4548679,
+    "longitude": -7.9781536,
+    "price": 27000,
+    "link": "https://www.pureportugal.co.uk/property/pry39-6-gaviao-farm/"
+  },
+  {
+    "name": "INO27-2: Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1-copy-29-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 27000,
+    "link": "https://www.pureportugal.co.uk/property/ino27-2-rustic-land/"
+  },
+  {
+    "name": "RMTR27-2: Alvaro Ruins",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/02/1-copy-1-388x220.jpg",
+    "latitude": 39.975732,
+    "longitude": -7.9689425,
+    "price": 27420,
+    "link": "https://www.pureportugal.co.uk/property/rmtr27-2-alvaro-ruins/"
+  },
+  {
+    "name": "HKP30-3: Arieiro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/DJI_0747-1024x767-copy-388x220.jpg",
+    "latitude": 39.8065927,
+    "longitude": -7.7067831,
+    "price": 27500,
+    "link": "https://www.pureportugal.co.uk/property/hkp30-3-arieiro/"
+  },
+  {
+    "name": "PED35: Ruin & Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/08/0002-135-388x220.jpg",
+    "latitude": 39.353916,
+    "longitude": -9.056118,
+    "price": 27500,
+    "link": "https://www.pureportugal.co.uk/property/ped35-ruin-land/"
+  },
+  {
+    "name": "XST27: Village View",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/11/0001-68-388x220.jpg",
+    "latitude": 40.0179518,
+    "longitude": -8.2620837,
+    "price": 27500,
+    "link": "https://www.pureportugal.co.uk/property/xst27-village-view/"
+  },
+  {
+    "name": "PRY27: Sao Pedro House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/1-1024x768-copy-4-388x220.jpg",
+    "latitude": 39.6362334,
+    "longitude": -7.85247,
+    "price": 27500,
+    "link": "https://www.pureportugal.co.uk/property/pry27-sao-pedro-house/"
+  },
+  {
+    "name": "MMR28-1: Qiunta Bemposta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/IMG_20210324_164708-copy-388x220.jpg",
+    "latitude": 40.0708711,
+    "longitude": -7.2260671,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/mmr28-1-qiunta-bemposta/"
+  },
+  {
+    "name": "PMR30: Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/06/0001-105-388x220.jpg",
+    "latitude": 39.8958714,
+    "longitude": -7.5560493,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/pmr30-village-house/"
+  },
+  {
+    "name": "SGH28: 2 Houses For Renovation & Land With Abundance Of Water",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/03/0001-79-388x220.jpg",
+    "latitude": 39.8182235,
+    "longitude": -7.49287,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/sgh28-2-houses-for-renovation-land-with-abundance-of-water/"
+  },
+  {
+    "name": "JDC26-1: Little Streamside",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/04/1-copy-4-388x220.jpg",
+    "latitude": 39.9177126,
+    "longitude": -8.1602118,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/jdc26-1-little-streamside/"
+  },
+  {
+    "name": "ELL28: Villa close to Castelo Branco",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-9-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6168727,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/ell28-villa-close-to-castelo-branco/"
+  },
+  {
+    "name": "RMTR28-3: Ribeiro do Indioso",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1-copy-3-388x220.jpg",
+    "latitude": 39.9855783,
+    "longitude": -8.0748967,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr28-3-ribeiro-do-indioso/"
+  },
+  {
+    "name": "ESF28: Ruínas das Sarzedas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/1-753-Custom-copy-388x220.jpg",
+    "latitude": 40.0179518,
+    "longitude": -8.2620837,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/esf28-ruinas-das-sarzedas/"
+  },
+  {
+    "name": "XST30: Olive Tree Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/05/0001-139-388x220.jpg",
+    "latitude": 40.0044524,
+    "longitude": -7.2355628,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/xst30-olive-tree-quinta/"
+  },
+  {
+    "name": "CT28: Ansiao Building Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/01/20220103_132350000_iOS-copy-1-388x220.jpg",
+    "latitude": 39.9183293,
+    "longitude": -8.4751082,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/ct28-ansiao-building-plot/"
+  },
+  {
+    "name": "ELL28-1: HOUSE TO RESTORE",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-14-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 28000,
+    "link": "https://www.pureportugal.co.uk/property/ell28-1-house-to-restore/"
+  },
+  {
+    "name": "PTC28: Vale d’Água",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/WhatsApp-Image-2021-09-20-at-13.35.17-1-copy-388x220.jpeg",
+    "latitude": 40.7347154,
+    "longitude": -8.3375233,
+    "price": 28500,
+    "link": "https://www.pureportugal.co.uk/property/ptc28-vale-dagua/"
+  },
+  {
+    "name": "TIP28: Stone House and backyard",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/PHOTO-2022-05-24-18-11-22-copy-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 28500,
+    "link": "https://www.pureportugal.co.uk/property/tip28-stone-house-and-backyard/"
+  },
+  {
+    "name": "CPN28: The Meadows",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/09/0016-9-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 28500,
+    "link": "https://www.pureportugal.co.uk/property/cpn28-the-meadows/"
+  },
+  {
+    "name": "RMCB28-3: Longwater Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/02/000-copy-8-388x220.jpg",
+    "latitude": 39.9409981,
+    "longitude": -8.1566225,
+    "price": 28990,
+    "link": "https://www.pureportugal.co.uk/property/rmcb28-3-longwater-farm/"
+  },
+  {
+    "name": "DEJA32: Ameixoeira Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2015/12/694_1-388x220.jpg",
+    "latitude": 39.8404,
+    "longitude": -8.1452,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/ameixoeira-plot/"
+  },
+  {
+    "name": "PRY29-1: Streams Pass",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/06/IMG_1665-copy-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445766,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/pry29-1-streams-pass/"
+  },
+  {
+    "name": "ESF29: Stone Cottages",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/000-copy-1-388x220.jpg",
+    "latitude": 40.0179518,
+    "longitude": -8.2620839,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/esf29-stone-cottages/"
+  },
+  {
+    "name": "ELL29: LAND WITH 2 RUINS",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-copy-5-388x220.jpg",
+    "latitude": 39.8112024,
+    "longitude": -7.7337163,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/ell29-land-with-2-ruins/"
+  },
+  {
+    "name": "TIP29-1: House near Idanha-a-nova",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/IMG_3238-copy-388x220.jpeg",
+    "latitude": 39.8854974,
+    "longitude": -7.3582579,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/tip29-1-house-near-idanha-a-nova/"
+  },
+  {
+    "name": "TIP29: Farm in Póvoa de Rio de Moinhos",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/1_00-388x220.jpg",
+    "latitude": 39.9398826,
+    "longitude": -7.5067678,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/tip29-farm-in-povoa-de-rio-de-moinhos/"
+  },
+  {
+    "name": "DRB39: Monsanto View",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/05/Vale-Crispim-9-copy-388x220.jpg",
+    "latitude": 40.0041894,
+    "longitude": -7.2355622,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/drb39-monsanto-view/"
+  },
+  {
+    "name": "GRT29: Cabrinhas Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/07/000-31-388x220.jpg",
+    "latitude": 39.5030048,
+    "longitude": -8.1039272,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/grt29-cabrinhas-farm/"
+  },
+  {
+    "name": "PRY30-2: Casa Cimeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/01/0-10-388x220.jpg",
+    "latitude": 39.9862488,
+    "longitude": -8.1694361,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/pry30-2-casa-cimeira/"
+  },
+  {
+    "name": "INO34: Casa Recuperada",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/1-copy-1-388x220.jpg",
+    "latitude": 39.8857608,
+    "longitude": -7.358259,
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/ino34-casa-recuperada/"
+  },
+  {
+    "name": "CASE29-6: Blue Gate Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-146-388x220.jpg",
+    "latitude": 39.9435366,
+    "longitude": -8.325152,
+    "price": 29300,
+    "link": "https://www.pureportugal.co.uk/property/case29-6-blue-gate-quinta/"
+  },
+  {
+    "name": "INO29-3: Almacedas Moradia",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/0MG-20220606-WA0003-copy-287x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 29500,
+    "link": "https://www.pureportugal.co.uk/property/ino29-3-almacedas-moradia/"
+  },
+  {
+    "name": "IMO29: Cinfaes Stone House (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-0-copy-2-388x220.jpg",
+    "latitude": 41.0743976,
+    "longitude": -8.1040896,
+    "price": 29500,
+    "link": "https://www.pureportugal.co.uk/property/imo29-cinfaes-stone-house/"
+  },
+  {
+    "name": "LNG29-3: Land in Small Village",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_20221203_102713-copy-1-388x220.jpg",
+    "latitude": 40.1695518,
+    "longitude": -7.1949372,
+    "price": 29900,
+    "link": "https://www.pureportugal.co.uk/property/lng29-3-land-in-small-village/"
+  },
+  {
+    "name": "LNG29-2: Small Farm (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-388x220.jpg",
+    "latitude": 39.9805892,
+    "longitude": -7.5950496,
+    "price": 29900,
+    "link": "https://www.pureportugal.co.uk/property/lng29-2-small-farm/"
+  },
+  {
+    "name": "RMCB29-2: Tranquil Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/08/00-copy-1-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031941,
+    "price": 29900,
+    "link": "https://www.pureportugal.co.uk/property/rmcb29-2-tranquil-quinta/"
+  },
+  {
+    "name": "RMCB29: House On The Corner SOLD",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-76-388x220.jpg",
+    "latitude": 39.8857604,
+    "longitude": -7.3586018,
+    "price": 29999,
+    "link": "https://www.pureportugal.co.uk/property/rmcb29-house-on-the-corner/"
+  },
+  {
+    "name": "XST30-1: Casinha na Aldeia",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/11/0ac96747-a485-453c-93ea-4ce5bb174241-copy-388x220.jpg",
+    "latitude": 39.8892547,
+    "longitude": -8.3445283,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/xst30-1-casinha-na-aldeia/"
+  },
+  {
+    "name": "LNG35-9: Casa Estreito",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/IMG_20220625_151533-copy-388x220.jpg",
+    "latitude": 39.9752758,
+    "longitude": -7.7939339,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/lng35-9-casa-estreito/"
+  },
+  {
+    "name": "HKP30-2: Horta da Taipa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/DJI_0849-1024x767-copy-388x220.jpg",
+    "latitude": 39.8695871,
+    "longitude": -7.8592193,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/hkp30-2-horta-da-taipa/"
+  },
+  {
+    "name": "ELP30: Pequena Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/06/IMG_20210613_092627-copy-388x220.jpg",
+    "latitude": 39.8156431,
+    "longitude": -8.460783,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/elp30-pequena-quinta/"
+  },
+  {
+    "name": "LNG30: Quinta da Lomba",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/09/IMG_20210720_151729-copy-388x220.jpg",
+    "latitude": 39.8323168,
+    "longitude": -7.5133877,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/lng30-quinta-da-lomba/"
+  },
+  {
+    "name": "SGH45: Xisto Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/01/10191010_105900-copy-388x220.jpg",
+    "latitude": 39.8116275,
+    "longitude": -7.5331465,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/sgh45-xisto-quinta/"
+  },
+  {
+    "name": "PTR30: Rustic Building",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/03/0001-9-388x220.jpg",
+    "latitude": 39.4400979,
+    "longitude": -8.4277052,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/ptr30-rustic-building/"
+  },
+  {
+    "name": "XST30-3: House for renovation",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/000-388x220.jpg",
+    "latitude": 39.8892547,
+    "longitude": -8.3445283,
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/xst30-3-house-for-renovation/"
+  },
+  {
+    "name": "PTC31: Lote do Cabeço",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/IMG_4934-copy-388x220.jpg",
+    "latitude": 39.4398192,
+    "longitude": -8.2879376,
+    "price": 31000,
+    "link": "https://www.pureportugal.co.uk/property/ptc31-lote-do-cabeco/"
+  },
+  {
+    "name": "RMCB31-1: Lupin Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/09/000-copy-5-388x220.jpg",
+    "latitude": 39.8857608,
+    "longitude": -7.3582584,
+    "price": 31500,
+    "link": "https://www.pureportugal.co.uk/property/rmcb31-1-lupin-quinta/"
+  },
+  {
+    "name": "SGH31: House For Renovation & Nice Manageable Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/05/0001-20-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 31500,
+    "link": "https://www.pureportugal.co.uk/property/sgh31-house-for-renovation-nice-manageable-land/"
+  },
+  {
+    "name": "LPI32-1: Palvarinho Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/0-9-388x220.jpg",
+    "latitude": 39.8728547,
+    "longitude": -7.6066768,
+    "price": 32000,
+    "link": "https://www.pureportugal.co.uk/property/lpi32-1-palvarinho-land/"
+  },
+  {
+    "name": "TIP32: House to renovate",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/000_capa-copy-388x220.jpg",
+    "latitude": 39.9805892,
+    "longitude": -7.5950496,
+    "price": 32000,
+    "link": "https://www.pureportugal.co.uk/property/tip32-house-to-renovate/"
+  },
+  {
+    "name": "SGH29-1: Brook View Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/02/IMG_5564-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 32000,
+    "link": "https://www.pureportugal.co.uk/property/sgh29-1-brook-view-farm/"
+  },
+  {
+    "name": "LPI32: Water Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/08/IMG_20200812_100855-copy-388x220.jpg",
+    "latitude": 40.4255631,
+    "longitude": -8.4716544,
+    "price": 32000,
+    "link": "https://www.pureportugal.co.uk/property/lpi32-water-farm/"
+  },
+  {
+    "name": "HKP32: Casa Junca",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/0SC05734-1024x683-copy-388x220.jpg",
+    "latitude": 39.8114325,
+    "longitude": -7.6031926,
+    "price": 32500,
+    "link": "https://www.pureportugal.co.uk/property/hkp32-casa-junca/"
+  },
+  {
+    "name": "HAU36: Cafede Farm (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/0-7-388x220.jpg",
+    "latitude": 39.8958056,
+    "longitude": -7.5560493,
+    "price": 32500,
+    "link": "https://www.pureportugal.co.uk/property/hau36-cafede-farm/"
+  },
+  {
+    "name": "HKP32-3: Alamo",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0SC01539-copy-388x220.jpg",
+    "latitude": 39.8065881,
+    "longitude": -7.7318467,
+    "price": 32500,
+    "link": "https://www.pureportugal.co.uk/property/hkp32-3-alamo/"
+  },
+  {
+    "name": "ESF32-4: Ruína da Portela",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/01/1-966-Custom-copy-388x220.jpg",
+    "latitude": 39.8892547,
+    "longitude": -8.3445283,
+    "price": 32500,
+    "link": "https://www.pureportugal.co.uk/property/esf32-4-ruina-da-portela/"
+  },
+  {
+    "name": "LNG33-2: Casa do Campo",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-5-388x220.jpg",
+    "latitude": 39.890497,
+    "longitude": -7.5975002,
+    "price": 33000,
+    "link": "https://www.pureportugal.co.uk/property/lng33-2-casa-do-campo/"
+  },
+  {
+    "name": "ELL33: SARZEDAS BARNS",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/11/0-13-388x220.jpg",
+    "latitude": 39.8509801,
+    "longitude": -7.7047886,
+    "price": 33000,
+    "link": "https://www.pureportugal.co.uk/property/ell33-sarzedas-barns/"
+  },
+  {
+    "name": "CASE34-7: Palhais Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/0-copy-1-388x220.jpg",
+    "latitude": 39.7568301,
+    "longitude": -8.2252572,
+    "price": 34000,
+    "link": "https://www.pureportugal.co.uk/property/case34-7-palhais-land/"
+  },
+  {
+    "name": "ANS34: Uptop Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/07/000-Captura-9-388x220.png",
+    "latitude": 42.1211,
+    "longitude": -8.70973,
+    "price": 34000,
+    "link": "https://www.pureportugal.co.uk/property/ans34-uptop-farm/"
+  },
+  {
+    "name": "GRT34-3: Casa da Serra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/IMG_0907-copy-388x220.jpg",
+    "latitude": 39.5029883,
+    "longitude": -8.1039486,
+    "price": 34000,
+    "link": "https://www.pureportugal.co.uk/property/grt34-3-casa-da-serra/"
+  },
+  {
+    "name": "PRY37: Aldeia da Ribeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/02/00190501_184619-copy-388x220.jpg",
+    "latitude": 40.4629307,
+    "longitude": -6.9236691,
+    "price": 34000,
+    "link": "https://www.pureportugal.co.uk/property/pry37-aldeia-da-ribeira/"
+  },
+  {
+    "name": "CASE34-3: Townhouse With Courtyard",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/05/0001-34-388x220.jpg",
+    "latitude": 39.943537,
+    "longitude": -8.3248086,
+    "price": 34300,
+    "link": "https://www.pureportugal.co.uk/property/case34-3-townhouse-with-courtyard/"
+  },
+  {
+    "name": "PRY34: Cimeiro Houses",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/02/1-copy-19-388x220.jpg",
+    "latitude": 39.7473807,
+    "longitude": -8.020314,
+    "price": 34500,
+    "link": "https://www.pureportugal.co.uk/property/pry34-cimeiro-houses/"
+  },
+  {
+    "name": "JVAL34: Townhouse",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/08/0001-31-388x220.jpg",
+    "latitude": 40.1552418,
+    "longitude": -7.5309556,
+    "price": 34500,
+    "link": "https://www.pureportugal.co.uk/property/jval34-townhouse/"
+  },
+  {
+    "name": "CASE34-4: Village Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/06/0001-10-388x220.jpg",
+    "latitude": 39.8380159,
+    "longitude": -8.2445765,
+    "price": 34500,
+    "link": "https://www.pureportugal.co.uk/property/case34-4-village-farm/"
+  },
+  {
+    "name": "INO37: Vale do Linho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/12/1-copy-3-388x220.jpg",
+    "latitude": 39.8116962,
+    "longitude": -7.6031931,
+    "price": 34500,
+    "link": "https://www.pureportugal.co.uk/property/ino37-vale-do-linho/"
+  }
+]

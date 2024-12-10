@@ -1,0 +1,644 @@
+[
+  {
+    "name": "HAU3: Rustic Lousa Land (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-2-388x220.jpg",
+    "price": 3500,
+    "link": "https://www.pureportugal.co.uk/property/hau3-rustic-lousa-land/"
+  },
+  {
+    "name": "HAU6: Lousa Quinta (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-3-388x220.jpg",
+    "price": 5850,
+    "link": "https://www.pureportugal.co.uk/property/hau6-lousa-quinta/"
+  },
+  {
+    "name": "HAU7: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/36a35e41b895841870446edbdf0f8adb-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau7-quinta-lousa/"
+  },
+  {
+    "name": "HAU9-1: Salgueiral Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/12/IMG_5300-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau9-1-salgueiral-land/"
+  },
+  {
+    "name": "HAU12-2: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/IMG_9246-copy-388x220.jpg",
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/hau12-2-quinta-lousa/"
+  },
+  {
+    "name": "LNG15-11: Saint Andrews",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/20211014_175132-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng15-11-saint-andrews/"
+  },
+  {
+    "name": "SGH10: Shale Village House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/05/0001-80-388x220.jpg",
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/sgh10-shale-village-house/"
+  },
+  {
+    "name": "LPI10: Lourical Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/IMG_5632-copy-1-388x220.jpg",
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/lpi10-lourical-farm/"
+  },
+  {
+    "name": "HAU10-5: Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/12/0-2-388x220.jpg",
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/hau10-5-rustic-land/"
+  },
+  {
+    "name": "LNG15-9: Benquerencas Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/000-24-388x220.jpg",
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/lng15-9-benquerencas-land/"
+  },
+  {
+    "name": "HAU3: Rustic Lousa Land (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-2-388x220.jpg",
+    "price": 3500,
+    "link": "https://www.pureportugal.co.uk/property/hau3-rustic-lousa-land/"
+  },
+  {
+    "name": "HAU6: Lousa Quinta (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-3-388x220.jpg",
+    "price": 5850,
+    "link": "https://www.pureportugal.co.uk/property/hau6-lousa-quinta/"
+  },
+  {
+    "name": "HAU7: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/36a35e41b895841870446edbdf0f8adb-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau7-quinta-lousa/"
+  },
+  {
+    "name": "HAU9-1: Salgueiral Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/12/IMG_5300-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau9-1-salgueiral-land/"
+  },
+  {
+    "name": "HAU12-2: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/IMG_9246-copy-388x220.jpg",
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/hau12-2-quinta-lousa/"
+  },
+  {
+    "name": "LNG15-11: Saint Andrews",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/20211014_175132-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng15-11-saint-andrews/"
+  },
+  {
+    "name": "LPI10: Lourical Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/IMG_5632-copy-1-388x220.jpg",
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/lpi10-lourical-farm/"
+  },
+  {
+    "name": "RMTR11: Troviscal Schist House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2016/08/500_1-388x220.jpg",
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/troviscal-schist-house/"
+  },
+  {
+    "name": "MIR12: Terreno em Juncal (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/03/a10-001-35-388x220.jpg",
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/mir12-terreno-em-juncal/"
+  },
+  {
+    "name": "HAU3: Rustic Lousa Land (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-2-388x220.jpg",
+    "price": 3500,
+    "link": "https://www.pureportugal.co.uk/property/hau3-rustic-lousa-land/"
+  },
+  {
+    "name": "HAU6: Lousa Quinta (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-3-388x220.jpg",
+    "price": 5850,
+    "link": "https://www.pureportugal.co.uk/property/hau6-lousa-quinta/"
+  },
+  {
+    "name": "HAU7: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/36a35e41b895841870446edbdf0f8adb-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau7-quinta-lousa/"
+  },
+  {
+    "name": "HAU9-1: Salgueiral Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/12/IMG_5300-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau9-1-salgueiral-land/"
+  },
+  {
+    "name": "HAU12-2: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/IMG_9246-copy-388x220.jpg",
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/hau12-2-quinta-lousa/"
+  },
+  {
+    "name": "LPI10: Lourical Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/IMG_5632-copy-1-388x220.jpg",
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/lpi10-lourical-farm/"
+  },
+  {
+    "name": "RMTR11: Troviscal Schist House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2016/08/500_1-388x220.jpg",
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/troviscal-schist-house/"
+  },
+  {
+    "name": "MIR12: Terreno em Juncal (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/03/a10-001-35-388x220.jpg",
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/mir12-terreno-em-juncal/"
+  },
+  {
+    "name": "LNG22: Casa de Pedra da Vila (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/04/a10-001-38-388x220.jpg",
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/lng22-casa-de-pedra-da-vila/"
+  },
+  {
+    "name": "ELP15: Casa Pussos",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/IMG_20210704_133545-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/elp15-casa-pussos/"
+  },
+  {
+    "name": "HAU3: Rustic Lousa Land (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-2-388x220.jpg",
+    "price": 3500,
+    "link": "https://www.pureportugal.co.uk/property/hau3-rustic-lousa-land/"
+  },
+  {
+    "name": "HAU6: Lousa Quinta (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-copy-3-388x220.jpg",
+    "price": 5850,
+    "link": "https://www.pureportugal.co.uk/property/hau6-lousa-quinta/"
+  },
+  {
+    "name": "HAU7: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/36a35e41b895841870446edbdf0f8adb-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau7-quinta-lousa/"
+  },
+  {
+    "name": "HAU9-1: Salgueiral Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/12/IMG_5300-copy-388x220.jpg",
+    "price": 7500,
+    "link": "https://www.pureportugal.co.uk/property/hau9-1-salgueiral-land/"
+  },
+  {
+    "name": "HAU12-2: Quinta Lousa (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/IMG_9246-copy-388x220.jpg",
+    "price": 9500,
+    "link": "https://www.pureportugal.co.uk/property/hau12-2-quinta-lousa/"
+  },
+  {
+    "name": "LNG15-11: Saint Andrews",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/20211014_175132-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng15-11-saint-andrews/"
+  },
+  {
+    "name": "LPI10: Lourical Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/IMG_5632-copy-1-388x220.jpg",
+    "price": 10000,
+    "link": "https://www.pureportugal.co.uk/property/lpi10-lourical-farm/"
+  },
+  {
+    "name": "RMTR11: Troviscal Schist House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2016/08/500_1-388x220.jpg",
+    "price": 11000,
+    "link": "https://www.pureportugal.co.uk/property/troviscal-schist-house/"
+  },
+  {
+    "name": "MIR12: Terreno em Juncal (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/03/a10-001-35-388x220.jpg",
+    "price": 12000,
+    "link": "https://www.pureportugal.co.uk/property/mir12-terreno-em-juncal/"
+  },
+  {
+    "name": "BMM12-1: Monte Off-grid",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/DJI_0489-copy-388x220.jpg",
+    "price": 12500,
+    "link": "https://www.pureportugal.co.uk/property/bmm12-1-monte-off-grid/"
+  },
+  {
+    "name": "LNG15-3: Little Clearing Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/08/20200615_162724-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng15-3-little-clearing-farm/"
+  },
+  {
+    "name": "CASE14-2: Bread Oven Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/12/0001-20-388x220.jpg",
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/case14-2-bread-oven-quinta/"
+  },
+  {
+    "name": "LNG22: Casa de Pedra da Vila (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/04/a10-001-38-388x220.jpg",
+    "price": 13500,
+    "link": "https://www.pureportugal.co.uk/property/lng22-casa-de-pedra-da-vila/"
+  },
+  {
+    "name": "HAU19: Ocreza View (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/2022-05-19-10-10-11-560-copy-388x220.jpg",
+    "price": 14500,
+    "link": "https://www.pureportugal.co.uk/property/hau19-ocreza-view/"
+  },
+  {
+    "name": "INO15-11: Ruin With Good Views",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/04/1-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/ino15-11-ruin-with-good-views/"
+  },
+  {
+    "name": "GFO15-1: Olives Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/10/0000a-388x220.jpg",
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/gfo-15-1-olives-plot/"
+  },
+  {
+    "name": "MRR15: Xisto House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/12/0001-54-388x220.jpg",
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/mrr15-xisto-house/"
+  },
+  {
+    "name": "LNG19-9: Fig Tree Cottage",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/1-copy-2-388x220.jpg",
+    "price": 15000,
+    "link": "https://www.pureportugal.co.uk/property/lng19-9-fig-tree-cottage/"
+  },
+  {
+    "name": "MIR16: Terreno com Poço",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/05/a10-001-1-388x220.jpg",
+    "price": 16000,
+    "link": "https://www.pureportugal.co.uk/property/mir16-terreno-com-poco/"
+  },
+  {
+    "name": "ESF19-2: Casa Costa",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/02/a00-001-1-388x220.jpg",
+    "price": 16000,
+    "link": "https://www.pureportugal.co.uk/property/esf19-2-casa-costa/"
+  },
+  {
+    "name": "MIR16-2: Renovation Project",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/11/IMG_20201119_160007-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/mir16-2-renovation-project/"
+  },
+  {
+    "name": "BMM17-1: Quintinha Pedralvas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/0MG_0998-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/bmm17-1-quintinha-pedralvas/"
+  },
+  {
+    "name": "HKP17-1: A Barroca",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/DSC08556-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/hkp17-1-a-barroca/"
+  },
+  {
+    "name": "ISAB17-1: Alva River Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/10/00-4-388x220.jpg",
+    "price": 17500,
+    "link": "https://www.pureportugal.co.uk/property/isab17-1-alva-river-farm/"
+  },
+  {
+    "name": "CPH18: Grami House",
+    "price": 18000,
+    "link": "https://www.pureportugal.co.uk/property/grami-house/"
+  },
+  {
+    "name": "LNG19-8: Quinta Sarzedas (Reserved) (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/06/20210602_155258-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng19-8-quinta-sarzedas/"
+  },
+  {
+    "name": "ZE19: Ruina de Granito",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/01/00-001-388x220.jpg",
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/ze19-granite-ruin/"
+  },
+  {
+    "name": "RMTR19-3: Vale Farpado",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/04/a10-001-27-388x220.jpg",
+    "price": 19000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr19-3-vale-farpado/"
+  },
+  {
+    "name": "HAU19-1: Rosmaninhal (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/1-copy-9-388x220.jpg",
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/hau19-1-rosmaninhal/"
+  },
+  {
+    "name": "LNG20-2: Quinta Sarzedas",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/20210518_170428-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng20-2-quinta-sarzedas/"
+  },
+  {
+    "name": "PRY19-3: Casa Roda",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/09/1-1024x768-copy-1-388x220.jpg",
+    "price": 19500,
+    "link": "https://www.pureportugal.co.uk/property/pry19-3-casa-roda/"
+  },
+  {
+    "name": "ISAB30-1: Evora Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/08/IMG_20220625_151425-copy-1-388x220.jpg",
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/isab30-1-evora-land/"
+  },
+  {
+    "name": "CASE20-1: Sertã Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/03/0001-78-388x220.jpg",
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/case20-1-serta-plot/"
+  },
+  {
+    "name": "PTR20: Andreus Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/10/0000-388x220.jpg",
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/ptr20-andreus-plot/"
+  },
+  {
+    "name": "CASE20-4: Pequena Casinha",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/06/0001-12-388x220.jpg",
+    "price": 20000,
+    "link": "https://www.pureportugal.co.uk/property/case20-4-pequena-casinha/"
+  },
+  {
+    "name": "INO20-3: Taguas Houses (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/0-copy-1-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/ino20-3-taguas-houses/"
+  },
+  {
+    "name": "ANB21-1: Terra Ecológica",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2016/06/1-5-388x220.jpg",
+    "price": 21450,
+    "link": "https://www.pureportugal.co.uk/property/anb21-1-eco-plot/"
+  },
+  {
+    "name": "JVAL22: Terra e Ribeiro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/07/0001-25-388x220.jpg",
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/jval22-terra-e-ribeiro/"
+  },
+  {
+    "name": "HKP22-3: Bolfeiro",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/Bolfeiro-1-copy-388x220.jpg",
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/hkp22-3-bolfeiro/"
+  },
+  {
+    "name": "SPC22: The Corner House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2019/07/0001-31-388x220.jpg",
+    "price": 22000,
+    "link": "https://www.pureportugal.co.uk/property/spc22-the-corner-house/"
+  },
+  {
+    "name": "PED22: Proença Plot RESERVED",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/04/0002-16-388x220.jpg",
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/ped22-proenca-plot/"
+  },
+  {
+    "name": "RFZ22: Casa Centenária",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/01/a00-001-2-388x220.jpg",
+    "price": 22500,
+    "link": "https://www.pureportugal.co.uk/property/rfz22-casa-centenaria/"
+  },
+  {
+    "name": "MIR23: Casa de 1848",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/03/002-001-388x220.jpg",
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/mir23-casa-de-1848/"
+  },
+  {
+    "name": "SGH23: Moradia Para Restaurar",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/07/0001-83-388x220.jpg",
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/sgh23-moradia-para-restaurar/"
+  },
+  {
+    "name": "SGM30: Eira de Vale do Ninho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/12/unnamed-001-388x220.jpg",
+    "price": 23000,
+    "link": "https://www.pureportugal.co.uk/property/sgm30-eira-de-vale-do-ninho/"
+  },
+  {
+    "name": "LNG23: Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/4be742f5e579887dcea393e8df753d11.jpg_ico-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng23-rustic-land/"
+  },
+  {
+    "name": "LNG28: Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/03/IMG_20211204_095343-copy-388x220.jpg",
+    "price": 23500,
+    "link": "https://www.pureportugal.co.uk/property/lng28-rustic-land/"
+  },
+  {
+    "name": "ADH29: Atalaia Cimeira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2015/12/unnamed-copy-388x220.jpg",
+    "price": 24500,
+    "link": "https://www.pureportugal.co.uk/property/atalaia-cimeira/"
+  },
+  {
+    "name": "INO29-1: Sunshine Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/IMG-20211115-WA0041-copy-288x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/ino29-1-sunshine-quinta/"
+  },
+  {
+    "name": "JVAL24: Terreno em Idanha",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/08/0001-28-388x220.jpg",
+    "price": 24500,
+    "link": "https://www.pureportugal.co.uk/property/jval24-idanha-plot/"
+  },
+  {
+    "name": "HAU24-2: Oak Forest Land (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/09/1ba4a9570e943afa072d3e1755995644-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/hau24-2-oak-forest-land/"
+  },
+  {
+    "name": "JVAL24-1: Terra do Vale dos Prazeres",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/08/0001-31-388x220.jpg",
+    "price": 24500,
+    "link": "https://www.pureportugal.co.uk/property/jval24-1-prazeres-land/"
+  },
+  {
+    "name": "JVAL24-2: Casa do Forno",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/08/0001-35-388x220.jpg",
+    "price": 24500,
+    "link": "https://www.pureportugal.co.uk/property/jval24-2-oven-house/"
+  },
+  {
+    "name": "CASE24-8: Blue House",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/0-copy-388x220.jpeg",
+    "price": 24900,
+    "link": "https://www.pureportugal.co.uk/property/case24-8-blue-house/"
+  },
+  {
+    "name": "GFO25: Casa Tia Lurdes",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/03/0005-37-388x220.jpg",
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/gfo25-casa-tia-lurdes/"
+  },
+  {
+    "name": "HKP25-5: Senhor da Pedra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/DSC08393-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/hkp25-5-senhor-da-pedra/"
+  },
+  {
+    "name": "LNG30-7: Quinta Estreito",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/1a-20220330_155706-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/lng30-7-quinta-estreito/"
+  },
+  {
+    "name": "LPI25-2: Salgueiro Stonehouse",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/0HOTO-2022-09-26-23-05-30-copy-388x220.jpg",
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/lpi25-2-salgueiro-stonehouse/"
+  },
+  {
+    "name": "HKP25-5: Senhor da Pedra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/DSC08393-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/hkp25-5-senhor-da-pedra/"
+  },
+  {
+    "name": "MIR25-1: Ruina das Oliveiras",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/12/000-001-388x220.jpg",
+    "price": 25000,
+    "link": "https://www.pureportugal.co.uk/property/mir25-1-olive-land-ruin/"
+  },
+  {
+    "name": "IMO26: Casa Rústica – SOLD",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/07/0020-16-388x220.jpg",
+    "price": 26500,
+    "link": "https://www.pureportugal.co.uk/property/imo26-rustic-house/"
+  },
+  {
+    "name": "INO27-2: Rustic Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/1-copy-29-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/ino27-2-rustic-land/"
+  },
+  {
+    "name": "MIR27: Casa de Cebolais",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/05/0002-39-388x220.jpg",
+    "price": 27500,
+    "link": "https://www.pureportugal.co.uk/property/mir27-cebolais-house/"
+  },
+  {
+    "name": "XST27-2: Ansião Quinta",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/03/IMG_20200207_163420-copy-388x220.jpg",
+    "price": 27500,
+    "link": "https://www.pureportugal.co.uk/property/xst27-2-ansiao-quinta/"
+  },
+  {
+    "name": "CASE28: Rural Cumeada",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/01/DSC04951-Medium-388x220.jpg",
+    "price": 28500,
+    "link": "https://www.pureportugal.co.uk/property/case28-rural-cumeada/"
+  },
+  {
+    "name": "PTR29: Casa da Montanha",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/05/0001-21-388x220.jpg",
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/ptr29-casa-da-montanha/"
+  },
+  {
+    "name": "MIR29: Terra Fértil com Poço",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/07/0002-27-388x220.jpg",
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/mir29-well-fertile-land/"
+  },
+  {
+    "name": "LZK29: Alvaiàzere Land",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/11/0-6-388x220.jpeg",
+    "price": 29000,
+    "link": "https://www.pureportugal.co.uk/property/lzk29-alvaiazere-land/"
+  },
+  {
+    "name": "ESF29: Stone Cottages (Reserved)",
+    "link": "https://www.pureportugal.co.uk/property/esf29-stone-cottages-reserved/"
+  },
+  {
+    "name": "IMO29: Cinfaes Stone House (Reserved)",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/07/1-0-copy-2-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/imo29-cinfaes-stone-house/"
+  },
+  {
+    "name": "INO37-1: Lameirinhos",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/0IMG-20220517-WA0008-copy-388x220.jpg",
+    "price": 29500,
+    "link": "https://www.pureportugal.co.uk/property/ino37-1-lameirinhos/"
+  },
+  {
+    "name": "RMCB29-1: Idanha Farm",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/08/00-copy-388x220.jpg",
+    "price": 29900,
+    "link": "https://www.pureportugal.co.uk/property/rmcb29-1-idanha-farm/"
+  },
+  {
+    "name": "LAM30-1: Alvaiazere Plot",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2017/01/IMG_0119-388x220.jpg",
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/lam30-1-alvaiazere-plot/"
+  },
+  {
+    "name": "GMM30: The Haybarn",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2020/07/000-IMG_4349-1-copy-1-388x220.jpg",
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/gmm30-the-haybarn/"
+  },
+  {
+    "name": "PRY30-1: Casa Carvalhal",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/01/IMG_9435-copy-388x220.jpg",
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/pry30-1-casa-carvalhal/"
+  },
+  {
+    "name": "PRY30-3: Casa Carvalheira",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/04/00-1024x768-copy-388x220.jpg",
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/pry30-3-casa-carvalheira/"
+  },
+  {
+    "name": "RMTR35-10: Casa Asnega",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/03/1-copy-5-388x220.jpg",
+    "price": 30000,
+    "link": "https://www.pureportugal.co.uk/property/rmtr35-10-casa-asnega/"
+  },
+  {
+    "name": "ANB32: Terras do Pinhal",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2023/03/0-20-388x220.jpg",
+    "price": 32500,
+    "link": "https://www.pureportugal.co.uk/property/anb32-terras-do-pinhal/"
+  },
+  {
+    "name": "HKP29-2: Jogo do Malhao",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/06/0DJI_0804-1024x767-copy-388x220.jpg",
+    "price": 33000,
+    "link": "https://www.pureportugal.co.uk/property/hkp29-2-jogo-do-malhao/"
+  },
+  {
+    "name": "JDC45-1: Land near Coimbra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2022/10/4-copy-33-388x220.jpg",
+    "price": 33000,
+    "link": "https://www.pureportugal.co.uk/property/jdc45-1-land-near-coimbra/"
+  },
+  {
+    "name": "RMCB31-1: Palheirinho",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2018/02/001-001-388x220.jpg",
+    "price": 33500,
+    "link": "https://www.pureportugal.co.uk/property/rmcb31-1-palheirinho/"
+  },
+  {
+    "name": "GRT34-3: Casa da Serra",
+    "image": "https://www.pureportugal.co.uk/pp_new/wp-content/uploads/2021/08/IMG_0907-copy-388x220.jpg",
+    "link": "https://www.pureportugal.co.uk/property/grt34-3-casa-da-serra/"
+  }
+]
