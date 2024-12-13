@@ -17,7 +17,7 @@ export const processPage = inngest.createFunction({ id: "process-page" }, { even
   console.log(`Found ${propertyLinks.length} properties on page ${pageNum}`)
 
   // Process each property
-  for (const url of propertyLinks.slice(0, 5)) {
+  for (const url of propertyLinks) {
     try {
       const existing = await db.query.properties.findFirst({ where: eq(properties.url, url) })
 
