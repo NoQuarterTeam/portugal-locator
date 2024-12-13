@@ -21,16 +21,15 @@ export const processPage = inngest.createFunction({ id: "process-page" }, { even
     try {
       const existing = await db.query.properties.findFirst({ where: eq(properties.url, url) })
 
-      console.log("Scraping", url)
-      const details = await scrapePropertyDetails(url)
-
       if (existing) {
+        console.log("Scraping", url)
+        const details = await scrapePropertyDetails(url)
         await db
           .update(properties)
           .set({ ...details, url })
           .where(eq(properties.id, existing.id))
       } else {
-        await db.insert(properties).values({ ...details, url })
+        // await db.insert(properties).values({ ...details, url })
       }
     } catch (error) {
       console.error(`Error processing property ${url}:`, error)
@@ -66,8 +65,9 @@ function extractTextBetweenHeaders(startHeader: string, endHeader: string, $: ch
 
 function extractCoordinates(scriptContent: string) {
   const match = scriptContent.match(/"point":\s*{\s*"lat":\s*([-\d.]+),\s*"lng":\s*([-\d.]+)\s*}/)
-  if (match) return { latitude: Number.parseFloat(match[1]), longitude: Number.parseFloat(match[2]) }
-  return null
+  const latitude = match ? Number.parseFloat(match[1]) : null
+  const longitude = match ? Number.parseFloat(match[2]) : null
+  return { latitude: Number.isNaN(latitude) ? null : latitude, longitude: Number.isNaN(longitude) ? null : longitude }
 }
 
 function extractLandSize(text: string) {
