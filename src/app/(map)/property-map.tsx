@@ -28,7 +28,7 @@ export function PropertyMap({ properties }: Props) {
               center: [property.longitude!, property.latitude!],
               duration: 400,
               padding: 50,
-              offset: [100, 0],
+              offset: [300, 0],
             })
           }}
         />
