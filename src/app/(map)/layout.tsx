@@ -1,13 +1,8 @@
-import { getSpots } from "@/lib/db"
-import { SpotMap } from "./map"
-
-export default async function Layout({ children }: { children: React.ReactNode }) {
-  const spots = await getSpots()
-
+export default async function Layout({ children, sidebar }: { children: React.ReactNode; sidebar: React.ReactNode }) {
   return (
     <main className="relative h-screen w-screen">
-      <SpotMap spots={spots} />
       {children}
+      {sidebar}
     </main>
   )
 }

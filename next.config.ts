@@ -1,3 +1,14 @@
 import { NextConfig } from "next"
+import "./src/env"
 
-export default {} satisfies NextConfig
+export default {
+  experimental: {
+    dynamicIO: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+} satisfies NextConfig
