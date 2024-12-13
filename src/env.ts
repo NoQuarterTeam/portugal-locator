@@ -6,6 +6,12 @@ export const env = createEnv({
     DATABASE_URL: z.string().url(),
     CRON_SECRET: z.string(),
   },
-  client: {},
-  experimental__runtimeEnv: process.env,
+  client: {
+    NEXT_PUBLIC_WEB_URL: z.string().default("http://localhost:3000"),
+  },
+  runtimeEnv: {
+    DATABASE_URL: process.env.DATABASE_URL,
+    CRON_SECRET: process.env.CRON_SECRET,
+    NEXT_PUBLIC_WEB_URL: process.env.NEXT_PUBLIC_WEB_URL,
+  },
 })

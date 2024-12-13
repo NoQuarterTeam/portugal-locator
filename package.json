@@ -22,6 +22,7 @@
     "clsx": "2.1.1",
     "dotenv": "16.4.7",
     "drizzle-orm": "0.38.1",
+    "inngest": "^3.28.0",
     "lucide-react": "0.468.0",
     "mapbox-gl": "3.8.0",
     "nanoid": "^5.0.9",

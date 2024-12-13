@@ -1,10 +1,44 @@
-import { NextResponse } from "next/server"
 import * as cheerio from "cheerio"
-import { db } from "@/server/db"
 import { eq } from "drizzle-orm"
-import { properties } from "@/server/db/schema"
+import { db } from "../db"
+import { properties } from "../db/schema"
+import { inngest } from "../lib/inngest"
 
-export const runtime = "edge"
+export const processPage = inngest.createFunction({ id: "process-page" }, { event: "app/process.page" }, async ({ event }) => {
+  const { page } = event.data
+
+  const pageNum = Number.parseInt(page)
+  console.log(`Processing page ${pageNum}...`)
+
+  const propertyLinks = await scrapePropertiesPage(pageNum)
+
+  if (propertyLinks.length === 0) return true
+
+  console.log(`Found ${propertyLinks.length} properties on page ${pageNum}`)
+
+  // Process each property
+  for (const url of propertyLinks) {
+    try {
+      const existing = await db.query.properties.findFirst({ where: eq(properties.url, url) })
+
+      console.log("Scraping", url)
+      const details = await scrapePropertyDetails(url)
+
+      if (existing) {
+        await db
+          .update(properties)
+          .set({ ...details, url })
+          .where(eq(properties.id, existing.id))
+      } else {
+        await db.insert(properties).values({ ...details, url })
+      }
+    } catch (error) {
+      console.error(`Error processing property ${url}:`, error)
+    }
+  }
+
+  return true
+})
 
 async function fetchHTML(url: string) {
   const response = await fetch(url)
@@ -35,6 +69,7 @@ function extractCoordinates(scriptContent: string) {
   if (match) return { latitude: Number.parseFloat(match[1]), longitude: Number.parseFloat(match[2]) }
   return null
 }
+
 function extractLandSize(text: string) {
   const match = text.match(/Land Size:\s*([\d,]+m2\s*\/\s*[\d.]+ha\s*\/\s*[\d.]+ac)/)
   return match ? match[1] : null
@@ -90,64 +125,4 @@ async function scrapePropertiesPage(pageNum: number) {
   })
 
   return propertyLinks
-}
-
-export async function GET(_request: Request) {
-  // const authHeader = request.headers.get("Authorization")
-  // if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) return new NextResponse("Unauthorized", { status: 401 })
-
-  try {
-    let pageNum = 1
-    let hasMorePages = true
-
-    while (hasMorePages) {
-      console.log(`Scraping page ${pageNum}...`)
-
-      // Get all property links from the current page
-      const propertyLinks = await scrapePropertiesPage(pageNum)
-
-      // If no properties found, we've reached the end
-      if (propertyLinks.length === 0) {
-        hasMorePages = false
-        break
-      }
-
-      console.log(`Found ${propertyLinks.length} properties on page ${pageNum}`)
-
-      // Process each property
-      for (const url of propertyLinks) {
-        // Skip if we've already processed this property
-        try {
-          // Check if property already exists in database
-          const existing = await db.query.properties.findFirst({ where: eq(properties.url, url) })
-
-          // Scrape and store new property
-
-          if (existing) {
-            console.log("Scraping", url)
-            const details = await scrapePropertyDetails(url)
-            await db
-              .update(properties)
-              .set({ ...details, url })
-              .where(eq(properties.id, existing.id))
-          } else {
-            // await db.insert(properties).values({ ...details, url })
-          }
-        } catch (error) {
-          console.error(`Error processing property ${url}:`, error)
-        }
-      }
-
-      // Move to next page
-      pageNum++
-
-      // Add a small delay to avoid overwhelming the server
-      await new Promise((resolve) => setTimeout(resolve, 1000))
-    }
-
-    return NextResponse.json({ success: true })
-  } catch (error) {
-    console.error("Scraping error:", error)
-    return NextResponse.json({ success: false, error: "Failed to scrape properties" }, { status: 500 })
-  }
 }
