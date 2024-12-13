@@ -15,6 +15,13 @@
       "when": 1734090893878,
       "tag": "0001_simple_forge",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1734113060915,
+      "tag": "0002_wet_doctor_faustus",
+      "breakpoints": true
     }
   ]
 }

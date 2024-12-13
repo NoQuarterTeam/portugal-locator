@@ -17,19 +17,20 @@ export const processPage = inngest.createFunction({ id: "process-page" }, { even
   console.log(`Found ${propertyLinks.length} properties on page ${pageNum}`)
 
   // Process each property
-  for (const url of propertyLinks) {
+  for (const url of propertyLinks.slice(0, 5)) {
     try {
       const existing = await db.query.properties.findFirst({ where: eq(properties.url, url) })
 
+      const details = await scrapePropertyDetails(url)
       if (existing) {
         console.log("Scraping", url)
-        const details = await scrapePropertyDetails(url)
         await db
           .update(properties)
           .set({ ...details, url })
           .where(eq(properties.id, existing.id))
       } else {
-        // await db.insert(properties).values({ ...details, url })
+        console.log("Update", url)
+        await db.insert(properties).values({ ...details, url })
       }
     } catch (error) {
       console.error(`Error processing property ${url}:`, error)
@@ -82,6 +83,15 @@ async function scrapePropertyDetails(url: string) {
   const scriptContent = $('script:contains("mapp.data.push")').html()
   const coordinates = scriptContent ? extractCoordinates(scriptContent) : null
 
+  const images: string[] = []
+
+  $(".attachment-full").each((_, element) => {
+    const src = $(element).attr("src")
+    if (src) {
+      images.push(src)
+    }
+  })
+
   return {
     name: $(".reference h2 div").text().trim(),
     price: Number.parseFloat(
@@ -100,6 +110,7 @@ async function scrapePropertyDetails(url: string) {
         .text()
         .trim(),
     ),
+    images,
     latitude: coordinates?.latitude,
     longitude: coordinates?.longitude,
     description: extractTextBetweenHeaders("Property Description", "Property Location", $),

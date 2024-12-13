@@ -13,6 +13,7 @@ export const properties = pgTable("property", {
   latitude: numericCasted("latitude", { precision: 10, scale: 8 }),
   longitude: numericCasted("longitude", { precision: 11, scale: 8 }),
   url: varchar("url", { length: 512 }).notNull().unique(),
+  images: text("images").array(),
   createdAt: timestamp("created_at").defaultNow().notNull(),
 })
 
