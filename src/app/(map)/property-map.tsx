@@ -26,7 +26,7 @@ export function PropertyMap({ properties }: Props) {
             router.push(`/property/${property.id}?${searchParams.toString() ?? ""}`)
             mapRef.current?.flyTo({
               center: [property.longitude!, property.latitude!],
-              duration: 1000,
+              duration: 400,
               padding: 50,
               offset: [100, 0],
             })
@@ -43,7 +43,11 @@ export function PropertyMap({ properties }: Props) {
       style={{ height: "100%", width: "100%" }}
       initialViewState={{ latitude: 41.2, longitude: -8, zoom: 5 }}
       attributionControl={false}
-      mapStyle="mapbox://styles/jclackett/clh82jh0q00b601pp2jfl30sh"
+      mapStyle="mapbox://styles/mapbox/standard"
+      // onLoad={async (e) => {
+      //   // @ts-ignore
+      //   e.target.setConfigProperty("basemap", "lightPreset", "night")
+      // }}
     >
       {propertyMarkers}
       <GeolocateControl position="bottom-right" />
@@ -60,7 +64,7 @@ interface MarkerProps {
 function PropertyMarker(props: MarkerProps) {
   return (
     <Marker onClick={props.onClick} anchor="center" longitude={props.property.longitude!} latitude={props.property.latitude!}>
-      <div className="size-4 shadow hover:scale-125 transition-transform cursor-pointer border border-white bg-purple-500 rounded-full" />
+      <div className="size-4 shadow hover:scale-125 transition-transform cursor-pointer border border-white bg-primary rounded-full" />
     </Marker>
   )
 }
