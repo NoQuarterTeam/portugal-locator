@@ -42,8 +42,9 @@ export function PropertyMap({ properties }: Props) {
       mapboxAccessToken="pk.eyJ1IjoiamNsYWNrZXR0IiwiYSI6ImNpdG9nZDUwNDAwMTMyb2xiZWp0MjAzbWQifQ.fpvZu03J3o5D8h6IMjcUvw"
       style={{ height: "100%", width: "100%" }}
       initialViewState={{ latitude: 41.2, longitude: -8, zoom: 5 }}
-      attributionControl={false}
+      // attributionControl={false}
       mapStyle="mapbox://styles/mapbox/standard"
+
       // onLoad={async (e) => {
       //   // @ts-ignore
       //   e.target.setConfigProperty("basemap", "lightPreset", "night")
