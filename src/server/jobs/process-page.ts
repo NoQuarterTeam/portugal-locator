@@ -30,7 +30,7 @@ export const processPage = inngest.createFunction({ id: "process-page" }, { even
           .where(eq(properties.id, existing.id))
       } else {
         console.log("Update", url)
-        await db.insert(properties).values({ ...details, url })
+        await db.insert(properties).values({ ...details, updatedAt: new Date(), url })
       }
     } catch (error) {
       console.error(`Error processing property ${url}:`, error)

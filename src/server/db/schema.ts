@@ -14,6 +14,7 @@ export const properties = pgTable("property", {
   longitude: numericCasted("longitude", { precision: 11, scale: 8 }),
   url: varchar("url", { length: 512 }).notNull().unique(),
   images: text("images").array(),
+  updatedAt: timestamp("updated_at").defaultNow().notNull(),
   createdAt: timestamp("created_at").defaultNow().notNull(),
 })
 
