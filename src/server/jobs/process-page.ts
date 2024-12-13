@@ -55,9 +55,7 @@ function extractTextBetweenHeaders(startHeader: string, endHeader: string, $: ch
   while (currentElement.length && (!endElement.length || !currentElement.is(endElement))) {
     if (currentElement.is("p")) {
       const text = currentElement.text().trim()
-      if (text) {
-        description += `${text}\n\n`
-      }
+      if (text) description += `${text}\n\n`
     }
     currentElement = currentElement.next()
   }
@@ -87,17 +85,13 @@ async function scrapePropertyDetails(url: string) {
 
   $(".attachment-full").each((_, element) => {
     const src = $(element).attr("src")
-    if (src) {
-      images.push(src)
-    }
+    if (src) images.push(src)
   })
 
   const price = $(".price h2.inline:not(.green)")
     .text()
     .trim()
     .replace(/[^0-9]/g, "")
-
-  console.log({ price })
 
   const priceNumber = Number.parseFloat(price)
   return {
