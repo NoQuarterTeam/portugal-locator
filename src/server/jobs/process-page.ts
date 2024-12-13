@@ -92,14 +92,17 @@ async function scrapePropertyDetails(url: string) {
     }
   })
 
+  const price = $(".price h2.inline:not(.green)")
+    .text()
+    .trim()
+    .replace(/[^0-9]/g, "")
+
+  console.log({ price })
+
+  const priceNumber = Number.parseFloat(price)
   return {
     name: $(".reference h2 div").text().trim(),
-    price: Number.parseFloat(
-      $(".price h2.inline:not(.green)")
-        .text()
-        .trim()
-        .replace(/[^0-9]/g, ""),
-    ),
+    price: Number.isNaN(priceNumber) ? null : priceNumber,
     subtitle: $(".heading h2").text().trim(),
     landSize: extractLandSize(
       $(".single-featured")

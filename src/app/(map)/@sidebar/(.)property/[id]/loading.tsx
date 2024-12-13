@@ -9,6 +9,11 @@ export default function Page() {
         <div className="h-6 w-12 bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
         <div className="h-6 w-20 bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
       </div>
+      <div className="flex flex-row gap-2 overflow-scroll">
+        <div className="shrink-0 h-[200px] w-[200px] bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
+        <div className="shrink-0 h-[200px] w-[200px] bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
+        <div className="shrink-0 h-[200px] w-[200px] bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
+      </div>
       <div className="h-6 w-full bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
       <div className="h-6 w-full bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
       <div className="h-6 w-full bg-gray-200 dark:bg-gray-800 rounded animate-pulse" />
