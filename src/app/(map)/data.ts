@@ -17,7 +17,13 @@ export async function getProperties(searchParams: z.infer<typeof searchParamsSch
     where: and(
       not(isNull(properties.latitude)),
       not(isNull(properties.longitude)),
-      ...(searchParams.search ? [ilike(properties.name, `%${searchParams.search}%`)] : []),
+      ...(searchParams.search
+        ? [
+            ilike(properties.name, `%${searchParams.search}%`),
+            ilike(properties.subtitle, `%${searchParams.search}%`),
+            ilike(properties.description, `%${searchParams.search}%`),
+          ]
+        : []),
       ...(searchParams.maxPrice ? [lte(properties.price, searchParams.maxPrice)] : []),
     ),
   })
