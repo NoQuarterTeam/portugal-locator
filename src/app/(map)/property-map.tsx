@@ -66,7 +66,7 @@ export function PropertyMap({ properties }: Props) {
       </ReactMap>
       {!isLoaded && (
         <div className="absolute flex items-center justify-center inset-0 z-50">
-          <p className="font-amatic text-2xl text-primary-foreground">Loading...</p>
+          <p className="font-amatic text-4xl font-bold text-primary dark:text-primary-foreground">Loading...</p>
         </div>
       )}
     </div>
