@@ -40,7 +40,7 @@ export function PropertyMap({ properties }: Props) {
           }}
         />
       )),
-    [properties],
+    [properties, isMobile],
   )
 
   useEffect(() => {
