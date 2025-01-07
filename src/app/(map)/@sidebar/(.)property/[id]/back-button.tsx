@@ -10,7 +10,7 @@ export function BackButton() {
   return (
     <Button asChild variant="ghost" size="icon">
       <Link href={`/?${searchParams.toString()}`}>
-        <XIcon size={20} />
+        <XIcon className="size-2 md:size-3" />
       </Link>
     </Button>
   )
