@@ -7,6 +7,7 @@ import { useRouter, useSearchParams } from "next/navigation"
 import type { Property } from "@/server/db/schema"
 import { useTheme } from "next-themes"
 import { useEffect } from "react"
+import { useIsMobile } from "@/hooks/use-mobile"
 
 interface Props {
   properties: Property[]
@@ -16,6 +17,8 @@ export function PropertyMap({ properties }: Props) {
   const [isLoaded, setIsLoaded] = React.useState(false)
   const theme = useTheme()
   const router = useRouter()
+
+  const isMobile = useIsMobile()
   const mapRef = React.useRef<MapRef | null>(null)
 
   const searchParams = useSearchParams()
@@ -32,7 +35,7 @@ export function PropertyMap({ properties }: Props) {
               center: [property.longitude!, property.latitude!],
               duration: 400,
               padding: 50,
-              offset: [300, 0],
+              offset: isMobile ? [0, 0] : [300, 0],
             })
           }}
         />
