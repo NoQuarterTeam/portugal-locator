@@ -56,7 +56,7 @@ export function PropertyMap({ properties }: Props) {
         ref={mapRef}
         mapboxAccessToken="pk.eyJ1IjoiamNsYWNrZXR0IiwiYSI6ImNpdG9nZDUwNDAwMTMyb2xiZWp0MjAzbWQifQ.fpvZu03J3o5D8h6IMjcUvw"
         style={{ height: "100%", width: "100%", opacity: isLoaded ? 1 : 0 }}
-        initialViewState={{ latitude: 40, longitude: -8, zoom: 6 }}
+        initialViewState={{ latitude: 40, longitude: -8, zoom: 5 }}
         mapStyle="mapbox://styles/mapbox/standard"
         onLoad={async () => {
           await new Promise((resolve) => setTimeout(resolve, 450))
