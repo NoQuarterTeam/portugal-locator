@@ -21,9 +21,12 @@ export default async function Page({ searchParams }: { searchParams: Promise<unk
   return (
     <>
       <PropertyMap properties={properties} />
+      <div className="fixed left-4 top-4 bg-background px-4 py-2 rounded">
+        <h1 className="font-amatic text-3xl text-brand font-bold">PURE PORTUGAL MAP</h1>
+      </div>
       <Dialog>
         <DialogTrigger asChild>
-          <Button className="fixed top-4 left-1/2 -translate-x-1/2">Filters</Button>
+          <Button className="fixed top-4 left-1/2 -translate-x-1/2 !font-amatic font-bold text-2xl">FILTERS</Button>
         </DialogTrigger>
         <DialogContent>
           <Form action="" className="grid gap-4">
