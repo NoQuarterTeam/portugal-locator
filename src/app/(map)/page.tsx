@@ -21,12 +21,12 @@ export default async function Page({ searchParams }: { searchParams: Promise<unk
   return (
     <>
       <PropertyMap properties={properties} />
-      <div className="fixed left-4 top-4 bg-background px-4 py-2 rounded">
-        <h1 className="font-amatic text-3xl text-brand font-bold">PURE PORTUGAL MAP</h1>
+      <div className="fixed left-4 top-4 bg-primary-foreground px-4 py-2 rounded">
+        <h1 className="font-amatic text-3xl text-primary font-bold">PURE PORTUGAL MAP</h1>
       </div>
       <Dialog>
         <DialogTrigger asChild>
-          <Button className="fixed top-4 left-1/2 -translate-x-1/2 !font-amatic font-bold text-2xl">FILTERS</Button>
+          <Button className="fixed top-4 left-1/2 -translate-x-1/2 font-bold text-2xl">FILTERS</Button>
         </DialogTrigger>
         <DialogContent>
           <Form action="" className="grid gap-4">
@@ -34,8 +34,11 @@ export default async function Page({ searchParams }: { searchParams: Promise<unk
               <DialogTitle>Filters</DialogTitle>
               <DialogDescription>Change which properties are shown</DialogDescription>
             </DialogHeader>
-            <Input name="search" placeholder="Search" defaultValue={safeSearchParams.search} />
-            <Input name="maxPrice" placeholder="Max Price" defaultValue={safeSearchParams.maxPrice} />
+            <Input name="search" placeholder="Search by name or description" defaultValue={safeSearchParams.search} />
+            <div className="flex gap-2">
+              <Input name="minPrice" placeholder="Min Price" defaultValue={safeSearchParams.minPrice} />
+              <Input name="maxPrice" placeholder="Max Price" defaultValue={safeSearchParams.maxPrice} />
+            </div>
             <DialogFooter className="gap-2">
               <DialogClose asChild>
                 <Button variant="ghost" asChild>

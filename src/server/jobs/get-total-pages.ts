@@ -12,6 +12,7 @@ async function getTotalPages() {
   return 1
 }
 
+// This job runs every Sunday at midnight
 export const loadPages = inngest.createFunction({ id: "get-total-pages" }, { cron: "0 0 * * 0" }, async ({ step }) => {
   const totalPages = await step.run("get-total-pages", getTotalPages)
 
