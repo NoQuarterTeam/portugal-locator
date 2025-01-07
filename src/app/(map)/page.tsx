@@ -26,7 +26,9 @@ export default async function Page({ searchParams }: { searchParams: Promise<unk
       </div>
       <Dialog>
         <DialogTrigger asChild>
-          <Button className="fixed top-4 left-1/2 -translate-x-1/2 font-bold text-2xl">FILTERS</Button>
+          <Button className="fixed top-4 right-4 md:right-auto md:left-1/2 md:-translate-x-1/2 font-bold text-2xl">
+            FILTERS
+          </Button>
         </DialogTrigger>
         <DialogContent>
           <Form action="" className="grid gap-4">
